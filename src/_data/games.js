@@ -32,6 +32,33 @@ async function fetchGame(id) {
   return null
 }
 
+// Determine best number of players based on "playerPollResults": [
+function recommendedNumPlayers(playerPollResults) {
+  const sortedResults = playerPollResults.sort((a, b) => {
+    if (a["best"] > b["best"]) {
+      return -1;
+    }
+    if (a["best"] < b["best"]) {
+      return 1;
+    }
+    // a must be equal to b
+    return 0;
+  })
+
+  return sortedResults[0]["numPlayers"]
+}
+
+function hasValidPollResults(playerPollResults) {
+  if (playerPollResults.length <= 0) {
+    return false
+  }
+
+  // If all the values are zero, then in actuality there is no data
+  const first = playerPollResults[0]
+  const invalid = first.best == 0 && first.recommended == 0 && first.notRecommended == 0
+  return !invalid
+}
+
 // Store expansions inside main games
 async function mungeGames(games) {
   const baseGames = games.filter(game => !game.isExpansion)
@@ -42,20 +69,23 @@ async function mungeGames(games) {
   }))
 
   return detailedGames.map(game => {
-    const { expansions, ...rest } = game
-    const detailedExpansions = expansions.filter(game => {
-      return myExpansionIds.includes(game.gameId)
-    })
+    const { expansions, playerPollResults, ...rest } = game
+    let modifiedGame = { ...rest }
 
-    if (detailedExpansions.length > 0) {
-      return {
-        expansions: detailedExpansions,
-        ...rest
+    if (expansions) {
+      const detailedExpansions = expansions.filter(game => {
+        return myExpansionIds.includes(game.gameId)
+      })
+      if (detailedExpansions.length > 0) {
+        modifiedGame.expansions = detailedExpansions
       }
-    } else {
-      return rest
     }
 
+    if (hasValidPollResults(playerPollResults)) {
+      modifiedGame.bestNumPlayers = recommendedNumPlayers(game.playerPollResults)
+    }
+
+    return modifiedGame
   })
 }
 

@@ -30,7 +30,7 @@ html, body {
 	--colors: #ff6fb8, #cb83ff, #9997ff;
 	--min-radius: 8;
 	--max-radius: 16;
-	--num-circles: 30;
+	--num-circles: 300;
 	--min-opacity: 10;
 	--max-opacity: 30;
 
@@ -86,6 +86,6 @@ a:hover {
 .game-card svg {
   color: var(--grey-default);
 }
-.game-card li {
+details li, details p {
   font-size: 1rem;
 }
