@@ -1,0 +1,17 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "A boardgame collection website using Eleventy and a non-pro json API version of the BGG api",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_ENV=production npx eleventy",
+    "start": "netlify dev --port=8081",
+    "watch": "npx eleventy --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
