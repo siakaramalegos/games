@@ -1,4 +1,4 @@
-_cache/
+src/_data/games.json
 _site/
 node_modules/
 package-lock.json

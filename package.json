@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production npx eleventy",
-    "start": "netlify dev --port=8081",
-    "watch": "npx eleventy --watch"
+    "start": "npx @11ty/eleventy --serve --port=8082"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^0.12.1",
+    "node-fetch": "^2.6.1"
   }
 }

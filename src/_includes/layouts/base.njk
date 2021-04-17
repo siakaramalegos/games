@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Sia's Boardgames</title>
+  <meta name="description" content="Sia's personal board game collection">
+
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  <script src="./games.js"></script>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    table {
+      border-collapse: collapse;
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    td, th {
+      border: none;
+      padding: 8px;
+    }
+    tr:nth-child(even) {background-color: #f2f2f2;}
+    thead tr {
+      background-color: #333;
+      color: white;
+    }
+  </style>
+</head>
+  <body>
+
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <footer>
+    </footer>
+
+  </body>
+</html>

@@ -1,5 +1,3 @@
-const fs = require("fs");
-
 module.exports = function(eleventyConfig) {
   // // Filters
   // Object.keys(filters).forEach(filterName => {
@@ -12,41 +10,11 @@ module.exports = function(eleventyConfig) {
   // })
 
   // eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/favicon.ico");
   // eleventyConfig.addPassthroughCopy("src/css");
   // eleventyConfig.addPassthroughCopy("src/css/fonts");
   // eleventyConfig.addPassthroughCopy("src/javascript");
 
-  /* Markdown Plugins */
-  // let markdownIt = require("markdown-it");
-  // let markdownItAnchor = require("markdown-it-anchor");
-  // let options = {
-  //   html: true,
-  //   breaks: true,
-  //   linkify: true
-  // };
-  // let opts = {
-  //   permalink: true,
-  //   permalinkClass: "direct-link",
-  //   permalinkSymbol: "#"
-  // };
-
-  // eleventyConfig.setLibrary("md", markdownIt(options)
-  //   .use(markdownItAnchor, opts)
-  // );
-
-  eleventyConfig.setBrowserSyncConfig({
-    callbacks: {
-      ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
-
-        browserSync.addMiddleware("*", (req, res) => {
-          // Provides the 404 content without redirect.
-          res.write(content_404);
-          res.end();
-        });
-      }
-    }
-  });
 
   // Input directory: src
   // Output directory: _site

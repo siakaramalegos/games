@@ -1,0 +1,19 @@
+{% for game in games %}
+  <div class="game-card">
+    <h2>{{ game.name }}</h2>
+  </div>
+
+  <!-- {% if webmention.url != "" %}
+    <a class="h-card u-url link-u-exempt" href="{{ webmention.url }}" target="_blank" rel="noopener noreferrer">
+  {% endif %}
+
+  {% if webmention.author.photo %}
+  <img src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}" width="48" height="48" loading="lazy">
+  {% else %}
+  <img src="{{ '/img/avatar.svg' | url }}" alt="" width="48" height="48">
+  {% endif %}
+
+  {% if webmention.url != "" %}
+    </a>
+  {% endif %} -->
+{% endfor %}
