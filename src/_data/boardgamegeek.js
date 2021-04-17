@@ -1,20 +1,62 @@
 const fs = require('fs')
 const fetch = require('node-fetch')
 const BGG_USERNAME = "nolasia"
-const BASE_URL = 'https://bgg-json.azurewebsites.net/collection/'
-const API_URL = `${BASE_URL}${BGG_USERNAME}`
+const BASE_URL = 'https://bgg-json.azurewebsites.net/'
 const DATA_FILE_PATH = 'src/_data/games.json'
 
 async function fetchGames() {
-  const response = await fetch(API_URL)
+  const url = `${BASE_URL}collection/${BGG_USERNAME}`
+  const response = await fetch(url)
+
   if (response.ok) {
     const games = await response.json()
-    console.log(`>>> ${games.length} games fetched from ${API_URL}`)
+    console.log(`>>> ${games.length} games fetched from ${url}`)
     console.log(games[0]);
     return games
   }
 
   return null
+}
+
+async function fetchGame(id) {
+  const url = `${BASE_URL}thing/${id}`
+  const response = await fetch(url)
+
+  if (response.ok) {
+    const game = await response.json()
+    console.log(`>>> ${game.name} data fetched from ${url}`)
+    console.log();
+    return game
+  }
+
+  return null
+}
+
+// Store expansions inside main games
+async function mungeGames(games) {
+  const baseGames = games.filter(game => !game.isExpansion)
+  const myExpansionIds = games.filter(game => game.isExpansion).map(game => game.gameId)
+
+  const detailedGames = await Promise.all(baseGames.map(async (game) => {
+    return await fetchGame(game.gameId)
+  }))
+
+  return detailedGames.map(game => {
+    const { expansions, ...rest } = game
+    const detailedExpansions = expansions.filter(game => {
+      return myExpansionIds.includes(game.gameId)
+    })
+
+    if (detailedExpansions.length > 0) {
+      return {
+        expansions: detailedExpansions,
+        ...rest
+      }
+    } else {
+      return rest
+    }
+
+  })
 }
 
 // Save games to a data file
@@ -33,9 +75,12 @@ module.exports = async function () {
   if (process.env.NODE_ENV === 'production') {
     console.log('>>> Checking for games...');
     const games = await fetchGames()
+
     if (games) {
-      writeToFile(games)
-      return games
+      const mungedGames = await mungeGames(games)
+
+      writeToFile(mungedGames)
+      return mungedGames
     }
   }
 }

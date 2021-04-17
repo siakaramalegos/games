@@ -10,28 +10,21 @@
   <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
   <link rel="icon" href="./favicon.ico" type="image/x-icon">
   <script src="./games.js"></script>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
+  <link rel="stylesheet" href="style.css">
+  <script>
+    (async function () {
+    // Polyfill for older browsers
+    if (CSS["paintWorklet"] === undefined) {
+      await import("https://unpkg.com/css-paint-polyfill");
     }
-    table {
-      border-collapse: collapse;
-      display: block;
-      overflow-x: auto;
-      white-space: nowrap;
-    }
-    td, th {
-      border: none;
-      padding: 8px;
-    }
-    tr:nth-child(even) {background-color: #f2f2f2;}
-    thead tr {
-      background-color: #333;
-      color: white;
-    }
-  </style>
+
+    // Looking for the source of the Paint Worklet?
+    // ~> Go check out https://github.com/bramus/css-houdini-circles
+    CSS.paintWorklet.addModule('https://unpkg.com/css-houdini-circles/dist/circles.js');
+    })();
+  </script>
 </head>
-  <body>
+  <body class="circles">
 
     <main>
       {{ content | safe }}

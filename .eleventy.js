@@ -9,11 +9,8 @@ module.exports = function(eleventyConfig) {
   //   eleventyConfig.addShortcode(shortcodeName, shortcodes[shortcodeName])
   // })
 
-  // eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
-  // eleventyConfig.addPassthroughCopy("src/css");
-  // eleventyConfig.addPassthroughCopy("src/css/fonts");
-  // eleventyConfig.addPassthroughCopy("src/javascript");
+  eleventyConfig.addPassthroughCopy("src/style.css");
 
 
   // Input directory: src
