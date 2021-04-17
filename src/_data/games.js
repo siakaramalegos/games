@@ -61,8 +61,14 @@ async function mungeGames(games) {
 
 // Save games to a data file
 function writeToFile(data) {
-  const dir = '_data'
+  const dir = '_cache'
+  // create cache folder if it doesnt exist already
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir)
+  }
+
   const fileContent = JSON.stringify(data, null, 2)
+
   // write data to cache json file
   fs.writeFile(CACHE_FILE_PATH, fileContent, err => {
     if (err) throw err
