@@ -2,7 +2,7 @@ const fs = require('fs')
 const fetch = require('node-fetch')
 const BGG_USERNAME = "nolasia"
 const BASE_URL = 'https://bgg-json.azurewebsites.net/'
-const DATA_FILE_PATH = 'src/_data/games.json'
+const CACHE_FILE_PATH = '_cache/games.json'
 
 async function fetchGames() {
   const url = `${BASE_URL}collection/${BGG_USERNAME}`
@@ -64,14 +64,27 @@ function writeToFile(data) {
   const dir = '_data'
   const fileContent = JSON.stringify(data, null, 2)
   // write data to cache json file
-  fs.writeFile(DATA_FILE_PATH, fileContent, err => {
+  fs.writeFile(CACHE_FILE_PATH, fileContent, err => {
     if (err) throw err
-    console.log(`>>> games saved to ${DATA_FILE_PATH}`)
+    console.log(`>>> games saved to ${CACHE_FILE_PATH}`)
   })
 }
 
+// get cache contents from json file
+function readFromCache() {
+  if (fs.existsSync(CACHE_FILE_PATH)) {
+    const cacheFile = fs.readFileSync(CACHE_FILE_PATH)
+    return JSON.parse(cacheFile)
+  }
+
+  // no cache found.
+  return []
+}
+
 module.exports = async function () {
-  // Only fetch new mentions in production
+  const cache = readFromCache()
+
+  // Only fetch games in production
   if (process.env.NODE_ENV === 'production') {
     console.log('>>> Checking for games...');
     const games = await fetchGames()
@@ -83,4 +96,6 @@ module.exports = async function () {
       return mungedGames
     }
   }
+
+  return cache
 }
