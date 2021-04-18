@@ -20,6 +20,7 @@ html, body {
   display: grid;
   font-family: var(--font-body);
   line-height: 1.5;
+  font-size: 1rem;
 }
 :focus {
   outline: 2px dashed var(--pink-50);
@@ -45,8 +46,9 @@ main > * {
   max-width: 888px;
 }
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.5em;
   margin: 48px 0;
+  text-align: center;
 }
 h1, h2, h3 {
   color: var(--purple-70);
@@ -73,20 +75,36 @@ a:hover {
 }
 .game-card {
   background-color: var(--grey-05);
-  font-size: 18px;
   margin: 0 auto;
-  padding: 24px;
   width: 280px;
 }
-.game-card > * {
-  margin-top: 12px;
+.game-card-text {
+  padding: 0 24px 24px 24px;
 }
-.game-card img {
-  margin: 0 auto;
+.game-card-text > * {
+  margin-top: 12px;
 }
 .game-card svg {
   color: var(--grey-default);
 }
 details li, details p {
   font-size: 1rem;
+}
+section.filters {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 48px 0;
+}
+.img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 198px;
+  padding-top: 24px;
+}
+.img-container img {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.15), 0 2px 4px rgba(0,0,0,0.12);
 }

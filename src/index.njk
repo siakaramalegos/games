@@ -4,9 +4,11 @@ layout: layouts/base.njk
 
 <h1>Sia's Boardgames</h1>
 
-<section>
-  <p>
-    <label for="num-players">Filter by number of players:</label>
+<section class="filters">
+  <h2>Filters</h2>
+
+  <div>
+    <label for="num-players">Number of players:</label>
     <select id="num-players">
       <option value="">--Show all--</option>
       <option value="1">1</option>
@@ -19,13 +21,14 @@ layout: layouts/base.njk
       <option value="8">8</option>
       <option value="9+">9+</option>
     </select>
-  </p>
-  <p>
-    <label for="best-players">Filter by ideal number of players:</label>
+  </div>
+
+  <div>
+    <label for="best-players">Ideal number of players:</label>
     <select id="best-players">
       <option value="">--Show all--</option>
     </select>
-  </p>
+  </div>
 </section>
 <section class="games-list">
   {% include 'games-list.njk' %}
