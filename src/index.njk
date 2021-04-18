@@ -4,6 +4,98 @@ layout: layouts/base.njk
 
 <h1>Sia's Boardgames</h1>
 
-<section class="games-list">
-  {% include 'games.njk' %}
+<section>
+  <p>
+    <label for="num-players">Filter by number of players:</label>
+    <select id="num-players">
+      <option value="">--Show all--</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9+">9+</option>
+    </select>
+  </p>
+  <p>
+    <label for="best-players">Filter by ideal number of players:</label>
+    <select id="best-players">
+      <option value="">--Show all--</option>
+    </select>
+  </p>
 </section>
+<section class="games-list">
+  {% include 'games-list.njk' %}
+</section>
+
+<script src="/js/games.js"></script>
+<script>
+  function uniqueSorted(array) {
+    return [...new Set(array)].filter(num => !!num).sort()
+  }
+
+  // Create the best number of players filter input
+  const bestInput = document.querySelector("#best-players")
+  const bestNumPlayersList = uniqueSorted(games.map(g => g.bestNumPlayers))
+  bestNumPlayersList.forEach(num => {
+    const option = document.createElement("option")
+    option.value = num
+    option.innerText = num
+    bestInput.appendChild(option)
+  })
+
+  function resetHidden() {
+    document.querySelectorAll(".game-card").forEach(card => {
+      card.classList.remove("hide")
+    })
+  }
+
+  function hide(games) {
+    games.forEach(game => {
+      document.querySelector(`#game-${game.gameId}`).classList.add("hide")
+    })
+  }
+
+  function filterByPlayers(event) {
+    // First reset any hidden items
+    resetHidden()
+
+    const numPlayers = parseInt(event.target.value, 10)
+
+    // If not "show all", continue filtering
+    if (numPlayers) {
+      // Which games DON'T meet the number of players criteria
+      const filterOut = games.filter(game => (
+        game.minPlayers > numPlayers || game.maxPlayers < numPlayers
+      ))
+
+      // Hide the ones that don't meet the criteria
+      hide(filterOut)
+    }
+  }
+
+  function filterByBestPlayers(event) {
+    // First reset any hidden items
+    resetHidden()
+
+    const numPlayers = parseInt(event.target.value, 10)
+
+    // If not "show all", continue filtering
+    if (numPlayers) {
+      // Which games DON'T meet the number of players criteria
+      const filterOut = games.filter(game => (
+        game.bestNumPlayers != numPlayers
+      ))
+
+      // Hide the ones that don't meet the criteria
+      hide(filterOut)
+    }
+  }
+
+  const selectInput = document.querySelector("#num-players")
+  selectInput.addEventListener("change", filterByPlayers)
+  bestInput.addEventListener("change", filterByBestPlayers)
+</script>

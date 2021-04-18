@@ -36,6 +36,7 @@ html, body {
 
 	background-image: paint(circles);
 }
+.hide {display: none;}
 main {
   margin: 0 auto;
   padding: 16px;
