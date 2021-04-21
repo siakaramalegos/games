@@ -9,7 +9,10 @@
 
   <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
   <link rel="icon" href="./favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="/style.css">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap" rel="stylesheet">
 
   <script>
     // Circles paint worklet
@@ -26,6 +29,13 @@
   </script>
 </head>
   <body class="circles">
+    {% if page.url != "/" %}
+      <nav>
+        <div class="container">
+          <a href="/">Home</a>
+        </div>
+      </nav>
+    {% endif %}
 
     <main>
       {{ content | safe }}

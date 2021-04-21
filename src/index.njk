@@ -2,37 +2,40 @@
 layout: layouts/base.njk
 ---
 
-<h1>Sia's Boardgames</h1>
+<h1 class="title">Sia's Game Shelf</h1>
 
-<section class="filters">
+<section>
   <h2>Filters</h2>
 
-  <div>
-    <label for="num-players">Number of players:</label>
-    <select id="num-players">
-      <option value="">--Show all--</option>
-      <option value="1">1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">4</option>
-      <option value="5">5</option>
-      <option value="6">6</option>
-      <option value="7">7</option>
-      <option value="8">8</option>
-      <option value="9+">9+</option>
-    </select>
+  <div class="filters">
+    <div>
+      <label for="num-players">Number of players:</label>
+      <select id="num-players">
+        <option value="">--Show all--</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9+">9+</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="best-players">Ideal number of players:</label>
+      <select id="best-players">
+        <option value="">--Show all--</option>
+      </select>
+    </div>
   </div>
 
-  <div>
-    <label for="best-players">Ideal number of players:</label>
-    <select id="best-players">
-      <option value="">--Show all--</option>
-    </select>
-  </div>
+  <p>Click on a game for description and expansions!</p>
 </section>
-<section class="games-list">
-  {% include 'games-list.njk' %}
-</section>
+
+{% include 'games-list.njk' %}
 
 <script src="/js/games.js"></script>
 <script>

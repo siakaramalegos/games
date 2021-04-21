@@ -77,7 +77,9 @@ async function mungeGames(games) {
         return myExpansionIds.includes(game.gameId)
       })
       if (detailedExpansions.length > 0) {
-        modifiedGame.expansions = detailedExpansions
+        modifiedGame.expansions = detailedExpansions.map(expansion => {
+          return games.find(element => element.gameId === expansion.gameId)
+        })
       }
     }
 
