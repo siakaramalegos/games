@@ -21,6 +21,7 @@ html, body {
   font-family: var(--font-body);
   line-height: 1.5;
   font-size: 1rem;
+  max-width: 100vw;
 }
 :focus {
   outline: 2px dashed var(--pink-50);
@@ -41,6 +42,7 @@ html, body {
 main, nav {
   margin: 0 auto;
   padding: 16px;
+  max-width: 100vw;
 }
 .container {
   max-width: 100%;
@@ -48,6 +50,7 @@ main, nav {
 }
 main > * {
   max-width: 888px;
+  width: 100%;
 }
 h1 {
   font-size: 2.5em;
@@ -154,15 +157,23 @@ section {
   box-shadow: 0 3px 6px rgba(0,0,0,0.15), 0 2px 4px rgba(0,0,0,0.12);
 }
 /* Game page */
-@media (min-width: 400px) {
+.game-grid {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  gap: 24px;
+  text-align: center;
+}
+@media (min-width: 450px) {
   .game-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 24px;
   }
   .grid-right > * {
     margin: 12px 0;
   }
+}
+@media (min-width: 600px) {
   .grid-right div {
     font-size: 1.5rem;
   }
