@@ -3,6 +3,7 @@ const fetch = require('node-fetch')
 const BGG_USERNAME = "nolasia"
 const BASE_URL = 'https://bgg-json.azurewebsites.net/'
 const CACHE_FILE_PATH = '_cache/games.json'
+const extraRatings = require("./extraRatings")
 
 async function fetchGames() {
   const url = `${BASE_URL}collection/${BGG_USERNAME}`
@@ -10,23 +11,32 @@ async function fetchGames() {
 
   if (response.ok) {
     const games = await response.json()
+
+    console.log(games.map(g => {
+      return {
+        gameId: g.gameId,
+        name: g.name,
+      }
+    }));
+
     console.log(`>>> ${games.length} games fetched from ${url}`)
-    console.log(games[0]);
     return games
   }
 
   return null
 }
 
-async function fetchGame(id) {
+async function fetchGame(id, complexityRating) {
   const url = `${BASE_URL}thing/${id}`
   const response = await fetch(url)
 
   if (response.ok) {
     const game = await response.json()
     console.log(`>>> ${game.name} data fetched from ${url}`)
-    console.log();
-    return game
+    return {
+      ...game,
+      complexityRating,
+    }
   }
 
   return null
@@ -61,11 +71,20 @@ function hasValidPollResults(playerPollResults) {
 
 // Store expansions inside main games
 async function mungeGames(games) {
-  const baseGames = games.filter(game => !game.isExpansion)
-  const myExpansionIds = games.filter(game => game.isExpansion).map(game => game.gameId)
+  const gamesWithComplexityRatings = games.map(game => {
+    const ratingsData = extraRatings.filter(g => g.gameId === game.gameId)[0]
+
+    return {
+      ...game,
+      complexityRating: ratingsData.complexityRating
+    }
+  })
+
+  const baseGames = gamesWithComplexityRatings.filter(game => !game.isExpansion)
+  const myExpansionIds = gamesWithComplexityRatings.filter(game => game.isExpansion).map(game => game.gameId)
 
   const detailedGames = await Promise.all(baseGames.map(async (game) => {
-    return await fetchGame(game.gameId)
+    return await fetchGame(game.gameId, game.complexityRating)
   }))
 
   return detailedGames.map(game => {
@@ -78,7 +97,7 @@ async function mungeGames(games) {
       })
       if (detailedExpansions.length > 0) {
         modifiedGame.expansions = detailedExpansions.map(expansion => {
-          return games.find(element => element.gameId === expansion.gameId)
+          return gamesWithComplexityRatings.find(element => element.gameId === expansion.gameId)
         })
       }
     }
