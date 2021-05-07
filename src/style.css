@@ -46,10 +46,10 @@ main, nav {
 }
 .container {
   max-width: 100%;
-  width: 888px;
+  width: 960px;
 }
 main > * {
-  max-width: 888px;
+  max-width: 960px;
   width: 100%;
 }
 h1 {
@@ -84,6 +84,9 @@ a:hover {
   display: flex;
   align-items: center;
   gap: 8px;
+}
+.v-align svg {
+  color: var(--grey-default);
 }
 .games-list {
   display: grid;
@@ -124,13 +127,17 @@ a:hover {
   padding: 6px;
 }
 .game-card-text {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: 32px 1fr;
   padding: 0 24px 24px 24px;
 }
 .game-card-text > * {
   margin-top: 12px;
 }
-.v-align svg {
+.game-card-text svg {
   color: var(--grey-default);
+  height: 26px;
 }
 details li, details p {
   font-size: 1rem;

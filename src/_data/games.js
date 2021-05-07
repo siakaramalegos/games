@@ -87,7 +87,7 @@ async function mungeGames(games) {
     return await fetchGame(game.gameId, game.complexityRating)
   }))
 
-  return detailedGames.map(game => {
+  const detailedWithExpansions =  detailedGames.map(game => {
     const { expansions, playerPollResults, ...rest } = game
     let modifiedGame = { ...rest }
 
@@ -107,6 +107,18 @@ async function mungeGames(games) {
     }
 
     return modifiedGame
+  })
+
+  // Sort from highest complexity to lowest
+  return detailedWithExpansions.sort((a, b) => {
+    if (a["complexityRating"] > b["complexityRating"]) {
+      return -1;
+    }
+    if (a["complexityRating"] < b["complexityRating"]) {
+      return 1;
+    }
+    // a must be equal to b
+    return 0;
   })
 }
 
