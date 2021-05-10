@@ -29,13 +29,12 @@
   </script>
 </head>
   <body class="circles">
-    {% if page.url != "/" %}
-      <nav>
-        <div class="container">
-          <a href="/">Home</a>
-        </div>
-      </nav>
-    {% endif %}
+    <nav>
+      <ul class="container">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </nav>
 
     <main>
       {{ content | safe }}
