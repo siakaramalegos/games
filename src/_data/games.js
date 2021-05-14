@@ -229,7 +229,7 @@ async function getComplexities(cachedComplexities, currentBasicGames) {
     return cachedComplexities
   }
 
-  const LIMIT = 10
+  const LIMIT = 5
   const addedRatings = await scrapeForRatings(addedIds.slice(0, LIMIT))
   return [
     ...cachedComplexities,
