@@ -31,7 +31,7 @@ permalink: "/{{ game.name | slug }}/"
   {% if game.expansions %}
     <h2>My Expansions</h2>
 
-    {% set games = game.expansions %}
+    {% set games = game.myExpansions %}
 
     {% include 'expansions-list.njk' %}
 
