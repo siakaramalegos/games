@@ -1,0 +1,5125 @@
+[
+  {
+    "gameId": 162886,
+    "name": "Spirit Island",
+    "description": "In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.&#10;&#10;Spirit Island is a complex and thematic cooperative game about defending your island home from colonizing Invaders. Players are different spirits of the land, each with its own unique elemental powers. Every turn, players simultaneously choose which of their power cards to play, paying energy to do so. Using combinations of power cards that match a spirit's elemental affinities can grant free bonus effects. Faster powers take effect immediately, before the Invaders spread and ravage, but other magics are slower, requiring forethought and planning to use effectively. In the Spirit phase, spirits gain energy, and choose how / whether to Grow: to reclaim used power cards, to seek for new power, or to spread presence into new areas of the island.&#10;&#10;The Invaders expand across the island map in a semi-predictable fashion. Each turn they explore into some lands (portions of the island); the next turn, they build in those lands, forming settlements and cities. The turn after that, they ravage there, bringing blight to the land and attacking any native islanders present. The islanders fight back against the Invaders when attacked, and lend the spirits some other aid, but may not always do so exactly as you'd hoped. Some Powers work through the islanders, helping them (eg) drive out the Invaders or clean the land of blight.&#10;&#10;The game escalates as it progresses: spirits spread their presence to new parts of the island and seek out new and more potent powers, while the Invaders step up their colonization efforts. Each turn represents 1-3 years of alternate-history. At game start, winning requires destroying every last settlement and city on the board - but as you frighten the Invaders more and more, victory becomes easier: they'll run away even if some number of settlements or cities remain. Defeat comes if any spirit is destroyed, if the island is overrun by blight, or if the Invader deck is depleted before achieving victory.&#10;&#10;The game includes different adversaries to fight against (eg: a Swedish Mining Colony, or a Remote British Colony). Each changes play in different ways, and offers a different path of difficulty boosts to keep the game challenging as you gain skill.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__original/img/9uLd9C3XAvInLCLhAoXqKVk56zs=/0x0/filters:format(jpeg)/pic7013651.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__thumb/img/aUlIih2_R7P8IYKeyNl2heLQbu8=/fit-in/200x150/filters:strip_icc()/pic7013651.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "playingTime": 120,
+    "mechanics": [
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Automatic Resource Growth",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2017,
+    "bggRating": 8.1537,
+    "averageRating": 8.36756,
+    "rank": 11,
+    "designers": [
+      "R. Eric Reuss"
+    ],
+    "publishers": [
+      "Greater Than Games, LLC",
+      "Ace Studios",
+      "Arrakis Games",
+      "BoardM Factory",
+      "Engames",
+      "Fabled Nexus",
+      "Fox in the Box",
+      "Gém Klub Kft.",
+      "Ghenos Games",
+      "Hobby World",
+      "Intrafin Games",
+      "Lacerta",
+      "One Moment Games",
+      "Pegasus Spiele",
+      "REXhry",
+      "Siam Board Games"
+    ],
+    "artists": [
+      "Jason Behnke",
+      "Loïc Berger",
+      "Loïc Billiau",
+      "Kat G Birmelin",
+      "Cari Corene",
+      "Lucas Durham",
+      "Rocky Hammer",
+      "Sydni Kruger",
+      "Nolan Nasser",
+      "Jorge Ramos",
+      "Adam Rebottaro",
+      "Moro Rogers",
+      "Graham Sternberg",
+      "Shane Tyree",
+      "Joshua Wright (I)"
+    ],
+    "complexityRating": "4.06 ",
+    "bestNumPlayers": 2,
+    "expansions": [
+      {
+        "name": "Spirit Island: Branch & Claw",
+        "gameId": 193065
+      },
+      {
+        "name": "Spirit Island: Champions of the Dahan Token Pack",
+        "gameId": 245664
+      },
+      {
+        "name": "Spirit Island: Expansion Playmat",
+        "gameId": 244827
+      },
+      {
+        "name": "Spirit Island: Feather & Flame",
+        "gameId": 356510
+      },
+      {
+        "name": "Spirit Island: Finder unsichtbarer Wege",
+        "gameId": 346618
+      },
+      {
+        "name": "Spirit Island: Jagged Earth",
+        "gameId": 262722
+      },
+      {
+        "name": "Spirit Island: Nature Incarnate",
+        "gameId": 365137
+      },
+      {
+        "name": "Spirit Island: Promo Pack 1",
+        "gameId": 232394
+      },
+      {
+        "name": "Spirit Island: Promo Pack 2",
+        "gameId": 263778
+      },
+      {
+        "name": "Spirit Island: Seele des Flächenbrands",
+        "gameId": 292800
+      },
+      {
+        "name": "Spirit Island: Sturzregen durchnässt die Welt",
+        "gameId": 368827
+      },
+      {
+        "name": "Spirit Island: Unter der Insel schlummernde Schlange",
+        "gameId": 275756
+      }
+    ]
+  },
+  {
+    "gameId": 237182,
+    "name": "Root",
+    "description": "Root is a game of adventure and war in which 2 to 4 (1 to 6 with the 'Riverfolk' expansion) players battle for control of a vast wilderness.&#10;&#10;The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance&rsquo;s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.&#10;&#10;Meanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander who they hope will lead their faction to resume their ancient birthright. The stage is set for a contest that will decide the fate of the great woodland. It is up to the players to decide which group will ultimately take root.&#10;&#10;Root represents the next step in our development of asymmetric design. Like Vast: The Crystal Caverns, each player in Root has unique capabilities and a different victory condition. Now, with the aid of gorgeous, multi-use cards, a truly asymmetric design has never been more accessible.&#10;&#10;The Cats play a game of engine building and logistics while attempting to police the vast wilderness. By collecting Wood they are able to produce workshops, lumber mills, and barracks. They win by building new buildings and crafts.&#10;&#10;The Eyrie musters their hawks to take back the Woods. They must capture as much territory as possible and build roosts before they collapse back into squabbling.&#10;&#10;The Alliance hides in the shadows, recruiting forces and hatching conspiracies. They begin slowly and build towards a dramatic late-game presence--but only if they can manage to keep the other players in check.&#10;&#10;Meanwhile, the Vagabond plays all sides of the conflict for their own gain, while hiding a mysterious quest. Explore the board, fight other factions, and work towards achieving your hidden goal.&#10;&#10;In Root, players drive the narrative, and the differences between each role create an unparalleled level of interaction and replayability. Leder Games invites you and your family to explore the fantastic world of Root!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__original/img/E0s2LvtFA1L5YKk-_44D4u2VD2s=/0x0/filters:format(jpeg)/pic4254509.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__thumb/img/ACovMZzGGIsBRyEQXFnsT8282NM=/fit-in/200x150/filters:strip_icc()/pic4254509.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 90,
+    "mechanics": [
+      "Action Queue",
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Hand Management",
+      "Point to Point Movement",
+      "Race",
+      "Sudden Death Ending",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2018,
+    "bggRating": 7.89528,
+    "averageRating": 8.09166,
+    "rank": 28,
+    "designers": [
+      "Cole Wehrle"
+    ],
+    "publishers": [
+      "Leder Games",
+      "2Tomatoes Games",
+      "Arclight Games",
+      "CMON Global Limited",
+      "CrowD Games",
+      "Delta Vision Publishing",
+      "Fox in the Box",
+      "Kilogames",
+      "Korea Boardgames Co., Ltd.",
+      "Matagot",
+      "MeepleBR",
+      "MS Edizioni",
+      "Portal Games",
+      "Quality Beast",
+      "Tower Tactic Games",
+      "YOKA Games"
+    ],
+    "artists": [
+      "Kyle Ferrin"
+    ],
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 241386,
+        "name": "Root: The Riverfolk Expansion",
+        "image": "https://cf.geekdo-images.com/durhzLYyIypxg7CuVYe82Q__original/img/xrLTlVUWtteTsoXmYLM2KM190DE=/0x0/filters:format(jpeg)/pic4252654.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/durhzLYyIypxg7CuVYe82Q__thumb/img/VianPUKU3XkBGeiqRm6x2IyeMGA=/fit-in/200x150/filters:strip_icc()/pic4252654.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 6,
+        "playingTime": 90,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.43689,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.66 "
+      }
+    ],
+    "complexityRating": "3.68 ",
+    "expansions": [
+      {
+        "name": "Root: Landmarks Pack",
+        "gameId": 334486
+      },
+      {
+        "name": "Root: Marauder Hirelings Pack & Hireling Box",
+        "gameId": 336276
+      },
+      {
+        "name": "Root: Riverfolk Hirelings Pack",
+        "gameId": 334485
+      },
+      {
+        "name": "Root: The Clockwork Expansion",
+        "gameId": 287220
+      },
+      {
+        "name": "Root: The Clockwork Expansion 2",
+        "gameId": 334483
+      },
+      {
+        "name": "Root: The Exiles and Partisans Deck",
+        "gameId": 272638
+      },
+      {
+        "name": "Root: The Marauder Expansion",
+        "gameId": 330149
+      },
+      {
+        "name": "Root: The Marauder Expansion (Kickstarter Edition)",
+        "gameId": 336649
+      },
+      {
+        "name": "Root: The Riverfolk Expansion",
+        "gameId": 241386
+      },
+      {
+        "name": "Root: The Underworld Expansion",
+        "gameId": 272637
+      },
+      {
+        "name": "Root: The Vagabond Pack",
+        "gameId": 309977
+      },
+      {
+        "name": "Root: Underworld Hirelings Pack",
+        "gameId": 361193
+      }
+    ]
+  },
+  {
+    "gameId": 169786,
+    "name": "Scythe",
+    "description": "It is a time of unrest in 1920s Europa. The ashes from the first great war still darken the snow. The capitalistic city-state known simply as &ldquo;The Factory&rdquo;, which fueled the war with heavily armored mechs, has closed its doors, drawing the attention of several nearby countries.&#10;&#10;Scythe is an engine-building game set in an alternate-history 1920s period. It is a time of farming and war, broken hearts and rusted gears, innovation and valor. In Scythe, each player represents a character from one of five factions of Eastern Europe who are attempting to earn their fortune and claim their faction's stake in the land around the mysterious Factory. Players conquer territory, enlist new recruits, reap resources, gain villagers, build structures, and activate monstrous mechs.&#10;&#10;Each player begins the game with different resources (power, coins, combat acumen, and popularity), a different starting location, and a hidden goal. Starting positions are specially calibrated to contribute to each faction&rsquo;s uniqueness and the asymmetrical nature of the game (each faction always starts in the same place).&#10;&#10;Scythe gives players almost complete control over their fate. Other than each player&rsquo;s individual hidden objective card, the only elements of luck or variability are &ldquo;encounter&rdquo; cards that players will draw as they interact with the citizens of newly explored lands. Each encounter card provides the player with several options, allowing them to mitigate the luck of the draw through their selection. Combat is also driven by choices, not luck or randomness.&#10;&#10;Scythe uses a streamlined action-selection mechanism (no rounds or phases) to keep gameplay moving at a brisk pace and reduce downtime between turns. While there is plenty of direct conflict for players who seek it, there is no player elimination.&#10;&#10;Every part of Scythe has an aspect of engine-building to it. Players can upgrade actions to become more efficient, build structures that improve their position on the map, enlist new recruits to enhance character abilities, activate mechs to deter opponents from invading, and expand their borders to reap greater types and quantities of resources. These engine-building aspects create a sense of momentum and progress throughout the game. The order in which players improve their engine adds to the unique feel of each game, even when playing one faction multiple times.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__original/img/HlDb9F365w0tSP8uD1vf1pfniQE=/0x0/filters:format(jpeg)/pic3163924.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__thumb/img/eQ69OEDdjYjfKg6q5Navee87skU=/fit-in/200x150/filters:strip_icc()/pic3163924.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "playingTime": 115,
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Contracts",
+      "End Game Bonuses",
+      "Force Commitment",
+      "Grid Movement",
+      "Hexagon Grid",
+      "King of the Hill",
+      "Movement Points",
+      "Narrative Choice / Paragraph",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Zone of Control"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2016,
+    "bggRating": 8.03664,
+    "averageRating": 8.18987,
+    "rank": 16,
+    "designers": [
+      "Jamey Stegmaier"
+    ],
+    "publishers": [
+      "Stonemaier Games",
+      "Albi",
+      "Angry Lion Games",
+      "Arclight Games",
+      "CrowD Games",
+      "Delta Vision Publishing",
+      "Feuerland Spiele",
+      "Fire on Board Jogos",
+      "Galápagos Jogos",
+      "Geekach Games",
+      "Ghenos Games",
+      "Korea Boardgames Co., Ltd.",
+      "Ludofy Creative",
+      "Maldito Games",
+      "Matagot",
+      "Morning",
+      "PHALANX",
+      "Playfun Games",
+      "Surfin' Meeple China"
+    ],
+    "artists": [
+      "Jakub Rozalski"
+    ],
+    "complexityRating": "3.43 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 262151,
+        "name": "Scythe: Encounters",
+        "image": "https://cf.geekdo-images.com/PwJm9BRgD_rndwtfpOnp9w__original/img/2pqH1UhAfsk_i6rwDTP16rKnUsc=/0x0/filters:format(jpeg)/pic4335859.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/PwJm9BRgD_rndwtfpOnp9w__thumb/img/7YaYe_C5vW5UwRqTmgg231JWw9o=/fit-in/200x150/filters:strip_icc()/pic4335859.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 7,
+        "playingTime": 115,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.08978,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.79 "
+      },
+      {
+        "gameId": 242277,
+        "name": "Scythe: The Rise of Fenris",
+        "image": "https://cf.geekdo-images.com/GRp__UYY-wM-i2fg4Qzefw__original/img/XJgcyfvPBsrxdew_vyvf96MUK6I=/0x0/filters:format(jpeg)/pic3911078.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/GRp__UYY-wM-i2fg4Qzefw__thumb/img/qLl_YEnA_TiXfhinS8yqAARKUFY=/fit-in/200x150/filters:strip_icc()/pic3911078.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 150,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.7367,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.39 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Scythe: Bonus Promo Pack – 6 Promo Encounter Cards numbers 37-42",
+        "gameId": 276229
+      },
+      {
+        "name": "Scythe: Encounters",
+        "gameId": 262151
+      },
+      {
+        "name": "Scythe: Invaders from Afar",
+        "gameId": 199727
+      },
+      {
+        "name": "Scythe: Modular Board",
+        "gameId": 279304
+      },
+      {
+        "name": "Scythe: Promo Pack #1 – Encounter Cards 29-32",
+        "gameId": 211731
+      },
+      {
+        "name": "Scythe: Promo Pack #11 – Encounter Card 39",
+        "gameId": 221033
+      },
+      {
+        "name": "Scythe: Promo Pack #12 – Encounter Card 40",
+        "gameId": 232176
+      },
+      {
+        "name": "Scythe: Promo Pack #13 – Encounter Card 41",
+        "gameId": 232087
+      },
+      {
+        "name": "Scythe: Promo Pack #14 – Encounter Card 42",
+        "gameId": 237663
+      },
+      {
+        "name": "Scythe: Promo Pack #2 – Encounter Cards 33-36",
+        "gameId": 205121
+      },
+      {
+        "name": "Scythe: Promo Pack #3 – Objective Cards 24-27",
+        "gameId": 211732
+      },
+      {
+        "name": "Scythe: Promo Pack #4 – Factory Cards 13-18",
+        "gameId": 211733
+      },
+      {
+        "name": "Scythe: Promo Pack #6 – Encounter Card 37",
+        "gameId": 212879
+      },
+      {
+        "name": "Scythe: Promo Pack #7 – Encounter Card 38",
+        "gameId": 204984
+      },
+      {
+        "name": "Scythe: The Rise of Fenris",
+        "gameId": 242277
+      },
+      {
+        "name": "Scythe: The Wind Gambit",
+        "gameId": 223555
+      }
+    ]
+  },
+  {
+    "gameId": 167791,
+    "name": "Terraforming Mars",
+    "description": "In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable. In Terraforming Mars, you play one of those corporations and work together in the terraforming process, but compete for getting victory points that are awarded not only for your contribution to the terraforming, but also for advancing human infrastructure throughout the solar system, and doing other commendable things.&#10;&#10;The players acquire unique project cards (from over two hundred different ones) by buying them to their hand. The projects (cards) can represent anything from introducing plant life or animals, hurling asteroids at the surface, building cities, to mining the moons of Jupiter and establishing greenhouse gas industries to heat up the atmosphere. The cards can give you immediate bonuses, as well as increasing your production of different resources. Many cards also have requirements and they become playable when the temperature, oxygen, or ocean coverage increases enough. Buying cards is costly, so there is a balance between buying cards (3 megacredits per card) and actually playing them (which can cost anything between 0 to 41 megacredits, depending on the project). Standard Projects are always available to complement your cards.&#10;&#10;Your basic income, as well as your basic score, is based on your Terraform Rating (starting at 20), which increases every time you raise one of the three global parameters. However, your income is complemented with your production, and you also get VPs from many other sources.&#10;&#10;Each player keeps track of their production and resources on their player boards, and the game uses six types of resources: MegaCredits, Steel, Titanium, Plants, Energy, and Heat. On the game board, you compete for the best places for your city tiles, ocean tiles, and greenery tiles. You also compete for different Milestones and Awards worth many VPs. Each round is called a generation (guess why) and consists of the following phases:&#10;&#10;1) Player order shifts clockwise.&#10;2) Research phase: All players buy cards from four privately drawn.&#10;3) Action phase: Players take turns doing 1-2 actions from these options: Playing a card, claiming a Milestone, funding an Award, using a Standard project, converting plant into greenery tiles (and raising oxygen), converting heat into a temperature raise, and using the action of a card in play. The turn continues around the table (sometimes several laps) until all players have passed.&#10;4) Production phase: Players get resources according to their terraform rating and production parameters.&#10;&#10;When the three global parameters (temperature, oxygen, ocean) have all reached their goal, the terraforming is complete, and the game ends after that generation. Count your Terraform Rating and other VPs to determine the winning corporation!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__original/img/thIqWDnH9utKuoKVEUqveDixprI=/0x0/filters:format(jpeg)/pic3536616.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__thumb/img/BTxqxgYay5tHJfVoJ2NF5g43_gA=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "playingTime": 120,
+    "mechanics": [
+      "Closed Drafting",
+      "Contracts",
+      "Enclosure",
+      "End Game Bonuses",
+      "Hand Management",
+      "Hexagon Grid",
+      "Income",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2016,
+    "bggRating": 8.2495,
+    "averageRating": 8.39535,
+    "rank": 5,
+    "designers": [
+      "Jacob Fryxelius"
+    ],
+    "publishers": [
+      "FryxGames",
+      "Arclight Games",
+      "Brädspel.se",
+      "Fantasmagoria",
+      "Ghenos Games",
+      "Green Elephant Games",
+      "Intrafin Games",
+      "Kaissa Chess & Games",
+      "Kilogames",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Lavka Games",
+      "Lex Games",
+      "Maldito Games",
+      "MeepleBR",
+      "MINDOK",
+      "MIPL",
+      "MYBG Co., Ltd.",
+      "NeoTroy Games",
+      "Rebel Sp. z o.o.",
+      "Reflexshop",
+      "Schwerkraft-Verlag",
+      "Siam Board Games",
+      "Stronghold Games",
+      "SuperHeated Neurons",
+      "Surfin' Meeple China"
+    ],
+    "artists": [
+      "Isaac Fryxelius"
+    ],
+    "complexityRating": "3.24 ",
+    "bestNumPlayers": 3,
+    "myExpansions": [
+      {
+        "gameId": 255681,
+        "name": "Terraforming Mars: Colonies",
+        "image": "https://cf.geekdo-images.com/OyCyHETRL-RzzYKlF8jshA__original/img/SbCa7xHGKW3v8tYf2CwPYH4t0tQ=/0x0/filters:format(jpeg)/pic4193099.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/OyCyHETRL-RzzYKlF8jshA__thumb/img/WpvEB_JcNNPngED5fDPb3qZOUEA=/fit-in/200x150/filters:strip_icc()/pic4193099.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 120,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.11312,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.15 "
+      },
+      {
+        "gameId": 218127,
+        "name": "Terraforming Mars: Hellas & Elysium",
+        "image": "https://cf.geekdo-images.com/7yS40E2oW3JY5_1HpDkmBw__original/img/zrWa0cefvMsa28k7lFuW87Rea8M=/0x0/filters:format(jpeg)/pic3343205.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/7yS40E2oW3JY5_1HpDkmBw__thumb/img/nUbQgZ-hG7C8S1xU01rU-0HmIC0=/fit-in/200x150/filters:strip_icc()/pic3343205.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 120,
+        "isExpansion": true,
+        "yearPublished": 2017,
+        "bggRating": 0,
+        "averageRating": 8.39623,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.91 "
+      },
+      {
+        "gameId": 247030,
+        "name": "Terraforming Mars: Prelude",
+        "image": "https://cf.geekdo-images.com/2qrpbgsKEcvu5RLXpb6fgw__original/img/aJDspE-4X4Qyn9ViaBrXd-P7IJw=/0x0/filters:format(jpeg)/pic4137234.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/2qrpbgsKEcvu5RLXpb6fgw__thumb/img/D5ierThzC9UcVe3mYB9n0-j5q5w=/fit-in/200x150/filters:strip_icc()/pic4137234.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 120,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.83769,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.51 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "French Championship Promo Cards (fan expansion for Terraforming Mars)",
+        "gameId": 296298
+      },
+      {
+        "name": "Meeple BR Jogos Promo Pack #1",
+        "gameId": 317189
+      },
+      {
+        "name": "Terraforming Mars: Asteroid Rights Promo Card",
+        "gameId": 322281
+      },
+      {
+        "name": "Terraforming Mars: Atmo Collectors Promo Card",
+        "gameId": 265081
+      },
+      {
+        "name": "Terraforming Mars: Bactoviral Research Promo Card",
+        "gameId": 339849
+      },
+      {
+        "name": "Terraforming Mars: BGG User-Created Corporation Pack",
+        "gameId": 241497
+      },
+      {
+        "name": "Terraforming Mars: Big Box",
+        "gameId": 311247
+      },
+      {
+        "name": "Terraforming Mars: Big Box Promo Pack",
+        "gameId": 312319
+      },
+      {
+        "name": "Terraforming Mars: Bio Printing Facility Promo Card",
+        "gameId": 332774
+      },
+      {
+        "name": "Terraforming Mars: Colonies",
+        "gameId": 255681
+      },
+      {
+        "name": "Terraforming Mars: Corporate Archives Promo Card",
+        "gameId": 370074
+      },
+      {
+        "name": "Terraforming Mars: Harvest Promo Card",
+        "gameId": 346129
+      },
+      {
+        "name": "Terraforming Mars: Hellas & Elysium",
+        "gameId": 218127
+      },
+      {
+        "name": "Terraforming Mars: Jovian Lanterns Promo Card",
+        "gameId": 265083
+      },
+      {
+        "name": "Terraforming Mars: Lunar Exports Promo Card",
+        "gameId": 265084
+      },
+      {
+        "name": "Terraforming Mars: Merger Promo Card",
+        "gameId": 364339
+      },
+      {
+        "name": "Terraforming Mars: New Partner Promo Card",
+        "gameId": 358525
+      },
+      {
+        "name": "Terraforming Mars: Outdoor Sports Promo Card",
+        "gameId": 352525
+      },
+      {
+        "name": "Terraforming Mars: Penguins Promo Card",
+        "gameId": 230241
+      },
+      {
+        "name": "Terraforming Mars: Prelude",
+        "gameId": 247030
+      },
+      {
+        "name": "Terraforming Mars: Self-Replicating Robots Promo Card",
+        "gameId": 230123
+      },
+      {
+        "name": "Terraforming Mars: Small Asteroid Promo Card",
+        "gameId": 202825
+      },
+      {
+        "name": "Terraforming Mars: Snow Algae Promo Card",
+        "gameId": 226297
+      },
+      {
+        "name": "Terraforming Mars: Terra Cimmeria",
+        "gameId": 365385
+      },
+      {
+        "name": "Terraforming Mars: Turmoil",
+        "gameId": 273473
+      },
+      {
+        "name": "Terraforming Mars: Turmoil Promos",
+        "gameId": 279345
+      },
+      {
+        "name": "Terraforming Mars: Utopia Planitia",
+        "gameId": 359145
+      },
+      {
+        "name": "Terraforming Mars: Vastitas Borealis",
+        "gameId": 365384
+      },
+      {
+        "name": "Terraforming Mars: Venus Next",
+        "gameId": 231965
+      }
+    ]
+  },
+  {
+    "gameId": 183394,
+    "name": "Viticulture Essential Edition",
+    "description": "In Viticulture, the players find themselves in the roles of people in rustic, pre-modern Tuscany who have inherited meager vineyards. They have a few plots of land, an old crushpad, a tiny cellar, and three workers. They each have a dream of being the first to call their winery a true success.&#10;&#10;The players are in the position of determining how they want to allocate their workers throughout the year. Every season is different on a vineyard, so the workers have different tasks they can take care of in the summer and winter. There's competition over those tasks, and often the first worker to get to the job has an advantage over subsequent workers.&#10;&#10;Fortunately for the vineyard owners, people love to visit wineries, and it just so happens that many of those visitors are willing to help out around the vineyard when they visit as long as you assign a worker to take care of them. Their visits (in the form of cards) are brief but can be very helpful.&#10;&#10;Using those workers and visitors, the vineyard owners can expand their vineyards by building structures, planting vines, and filling wine orders, working towards the goal of running the most successful winery in Tuscany.&#10;&#10;Viticulture Essential Edition includes the base game of Viticulture and a few of the most popular modules from the original Tuscany expansion, including Mamas &amp; Papas, Fields (previously known as Properties), expanded and revised Visitors, and Automa cards for a solo variant, along with a few minor rule changes.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__original/img/gDL7OZFlzoOFgU0VYlREs8P5hCQ=/0x0/filters:format(jpeg)/pic6500949.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__thumb/img/pULDtVd75QZgGfvSMhr6Rs07vK8=/fit-in/200x150/filters:strip_icc()/pic6500949.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "playingTime": 90,
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Turn Order: Auction",
+      "Victory Points as a Resource",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2015,
+    "bggRating": 7.87726,
+    "averageRating": 8.0293,
+    "rank": 30,
+    "designers": [
+      "Jamey Stegmaier",
+      "Alan Stone"
+    ],
+    "publishers": [
+      "Stonemaier Games",
+      "Albi",
+      "Angry Lion Games",
+      "Arclight Games",
+      "Delta Vision Publishing",
+      "Feuerland Spiele",
+      "Ghenos Games",
+      "Kilogames",
+      "Korea Boardgames Co., Ltd.",
+      "Lavka Games",
+      "Ludofy Creative",
+      "Maldito Games",
+      "Matagot",
+      "PHALANX",
+      "Regatul Jocurilor"
+    ],
+    "artists": [
+      "Jacqui Davis",
+      "David Montgomery",
+      "Beth Sobel"
+    ],
+    "complexityRating": "2.89 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 360226,
+        "name": "Viticulture World: Cooperative Expansion",
+        "image": "https://cf.geekdo-images.com/dPjso_7GLXiW0uO7oe6-xw__original/img/fYDLonzs_sZtMvsrUEtjeMjRDL0=/0x0/filters:format(jpeg)/pic6809375.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/dPjso_7GLXiW0uO7oe6-xw__thumb/img/4w-Pex6mZvONuT4tQeyBdeOUCeo=/fit-in/200x150/filters:strip_icc()/pic6809375.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 6,
+        "playingTime": 120,
+        "isExpansion": true,
+        "yearPublished": 2022,
+        "bggRating": 0,
+        "averageRating": 7.92868,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.13 "
+      },
+      {
+        "gameId": 202174,
+        "name": "Viticulture: Tuscany Essential Edition",
+        "image": "https://cf.geekdo-images.com/Xf1C1NuxY1YOHPFmpmNqiw__original/img/VIztgqIeZAGhu9odjtoMo0zEaP4=/0x0/filters:format(jpeg)/pic3064278.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/Xf1C1NuxY1YOHPFmpmNqiw__thumb/img/W2Gl053PiLjKXrsXZ67Y76bTPfM=/fit-in/200x150/filters:strip_icc()/pic3064278.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 6,
+        "playingTime": 150,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 8.58746,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.26 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Tuscany & Euphoria Crossover structures",
+        "gameId": 256549
+      },
+      {
+        "name": "Tuscany: Special Worker Promo Cards",
+        "gameId": 214463
+      },
+      {
+        "name": "Viticulture World: Cooperative Expansion",
+        "gameId": 360226
+      },
+      {
+        "name": "Viticulture World: First Game Continent Promo Pack",
+        "gameId": 364100
+      },
+      {
+        "name": "Viticulture: Arboriculture and Formaggio Expansions",
+        "gameId": 130655
+      },
+      {
+        "name": "Viticulture: Moor Visitors Expansion",
+        "gameId": 193823
+      },
+      {
+        "name": "Viticulture: Tuscany Essential Edition",
+        "gameId": 202174
+      },
+      {
+        "name": "Viticulture: Visit from the Rhine Valley",
+        "gameId": 248929
+      }
+    ]
+  },
+  {
+    "gameId": 63888,
+    "name": "Innovation",
+    "description": "This game by Carl Chudyk is a journey through innovations from the stone age through modern times.  Each player builds a civilization based on various technologies, ideas, and cultural advancements, all represented by cards.  Each of these cards has a unique power which will allow further advancement, point scoring, or even attacking other civilizations.  Be careful though, as other civilizations may be able to benefit from your ideas as well!&#10;&#10;To win, you must score achievements, which you can attain by amassing points or by meeting certain criteria with the innovations you have built.  Plan your civilization well, and outmaneuver your opponents, and with some luck you will achieve victory!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__original/img/-Ec777H5hg1pmx6kQ0PI2A9Iroc=/0x0/filters:format(png)/pic2966859.png",
+    "thumbnail": "https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__thumb/img/GmRDNEKangi2w4daNGHCQiH5h_I=/fit-in/200x150/filters:strip_icc()/pic2966859.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 60,
+    "mechanics": [
+      "Advantage Token",
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Phase Order"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2010,
+    "bggRating": 7.08215,
+    "averageRating": 7.27919,
+    "rank": 346,
+    "designers": [
+      "Carl Chudyk"
+    ],
+    "publishers": [
+      "Asmadi Games",
+      "Asterion Press",
+      "Grok Games",
+      "Hobby Japan",
+      "Hobby World",
+      "HomoLudicus",
+      "IELLO",
+      "Igrology",
+      "Lacerta",
+      "Ludofy Creative",
+      "One Moment Games",
+      "REXhry",
+      "Schwerkraft-Verlag",
+      "Smart Ltd",
+      "פרש משחקים: Game Knight"
+    ],
+    "artists": [
+      "Alanna Cervenak",
+      "Carl Chudyk",
+      "Cara Judd",
+      "Robin Olausson",
+      "Anders Olausson",
+      "Christophe Swal",
+      "Cyril Van Der Haegen"
+    ],
+    "complexityRating": "2.75 ",
+    "bestNumPlayers": 2,
+    "myExpansions": [
+      {
+        "gameId": 185796,
+        "name": "Innovation: Artifacts of History",
+        "image": "https://cf.geekdo-images.com/YOLyhFbMMdGBFcMpOkQI3g__original/img/Zqty7W5k-zn-1uXl_IkYehvNpIo=/0x0/filters:format(jpeg)/pic3912059.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/YOLyhFbMMdGBFcMpOkQI3g__thumb/img/hjVyEmW26RJo00PlMucQ8Jn_0js=/fit-in/200x150/filters:strip_icc()/pic3912059.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playingTime": -1,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 7.54471,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.50 "
+      },
+      {
+        "gameId": 92898,
+        "name": "Innovation: Echoes of the Past",
+        "image": "https://cf.geekdo-images.com/PZ8zW_w03U5sBhGcnNKHIw__original/img/XcMP9XUyg8y9theJCZkdlpkcBuY=/0x0/filters:format(jpeg)/pic3910611.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/PZ8zW_w03U5sBhGcnNKHIw__thumb/img/8UMNVv6pr3KE-kmJ5Eso7jROx9k=/fit-in/200x150/filters:strip_icc()/pic3910611.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playingTime": 60,
+        "isExpansion": true,
+        "yearPublished": 2011,
+        "bggRating": 0,
+        "averageRating": 7.57588,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.89 "
+      },
+      {
+        "gameId": 122323,
+        "name": "Innovation: Figures in the Sand",
+        "image": "https://cf.geekdo-images.com/itYfk5CYuc1X9Wq0jv8MGQ__original/img/PnyG7vWLHbgO57X6FEqMGuP1SpI=/0x0/filters:format(jpeg)/pic3910616.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/itYfk5CYuc1X9Wq0jv8MGQ__thumb/img/Nac9Hy2HigETah3A_M8AC2n7ODU=/fit-in/200x150/filters:strip_icc()/pic3910616.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "playingTime": 75,
+        "isExpansion": true,
+        "yearPublished": 2013,
+        "bggRating": 0,
+        "averageRating": 7.55141,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "3.04 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Innovation: Artifacts of History",
+        "gameId": 185796
+      },
+      {
+        "name": "Innovation: Cities of Destiny",
+        "gameId": 150669
+      },
+      {
+        "name": "Innovation: Echoes of the Past",
+        "gameId": 92898
+      },
+      {
+        "name": "Innovation: Figures in the Sand",
+        "gameId": 122323
+      }
+    ]
+  },
+  {
+    "gameId": 366161,
+    "name": "Wingspan Asia",
+    "description": "In this third expansion to Wingspan, we welcome new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.&#10;&#10;Wingspan Asia is several different things: A stand-alone game for 1 player or 2 players (Duet mode that can be used with any bird/bonus cards), a card expansion to the original Wingspan (any bird/bonus cards across any Wingspan game or expansion can be combined), and a 6-7 player expansion via the new Flock mode (for which the player components from the core game are necessary).&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__original/img/MSX7waTxS81SiyxAmmCJFFWAl1I=/0x0/filters:format(jpeg)/pic7107431.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__thumb/img/hPsEFlgh0b_JhtQmsJQv3vmq814=/fit-in/200x150/filters:strip_icc()/pic7107431.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "playingTime": 70,
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2022,
+    "bggRating": 5.73005,
+    "averageRating": 8.16774,
+    "rank": 4832,
+    "designers": [
+      "Elizabeth Hargrave"
+    ],
+    "publishers": [
+      "Stonemaier Games",
+      "999 Games",
+      "Delta Vision Publishing",
+      "Feuerland Spiele",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Rebel Sp. z o.o.",
+      "Regatul Jocurilor",
+      "Ігромаг"
+    ],
+    "artists": [
+      "Ana Maria Martinez Jaramillo",
+      "Natalia Rojas"
+    ],
+    "complexityRating": "2.60 ",
+    "bestNumPlayers": 2,
+    "myExpansions": [
+      {
+        "gameId": 290448,
+        "name": "Wingspan: European Expansion",
+        "image": "https://cf.geekdo-images.com/7izK8WM_bgtvBzxQvLGz-A__original/img/NFkKrFCKJ1YUC1x7bpx-WVDhLq0=/0x0/filters:format(jpeg)/pic4982682.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/7izK8WM_bgtvBzxQvLGz-A__thumb/img/Q76pV0p00R8qkcS6o-nczJD7DCk=/fit-in/200x150/filters:strip_icc()/pic4982682.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 70,
+        "isExpansion": true,
+        "yearPublished": 2019,
+        "bggRating": 0,
+        "averageRating": 8.38243,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.38 "
+      },
+      {
+        "gameId": 300580,
+        "name": "Wingspan: Oceania Expansion",
+        "image": "https://cf.geekdo-images.com/Nl_5PvrmI6aS-1qqiJ6JAw__original/img/Y4F8LD6FKN82ERsoe92o25oAF2E=/0x0/filters:format(png)/pic5685481.png",
+        "thumbnail": "https://cf.geekdo-images.com/Nl_5PvrmI6aS-1qqiJ6JAw__thumb/img/ohztPasKZz5F71HTb7YrPasy_xM=/fit-in/200x150/filters:strip_icc()/pic5685481.png",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 70,
+        "isExpansion": true,
+        "yearPublished": 2020,
+        "bggRating": 0,
+        "averageRating": 8.51011,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.61 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Wingspan: European Expansion",
+        "gameId": 290448
+      },
+      {
+        "name": "Wingspan: Oceania Expansion",
+        "gameId": 300580
+      }
+    ]
+  },
+  {
+    "gameId": 40834,
+    "name": "Dominion: Intrigue",
+    "description": "In Dominion: Intrigue (as with Dominion), each player starts with an identical, very small deck of cards. In the center of the table is a selection of other cards the players can &quot;buy&quot; as they can afford them. Through their selection of cards to buy, and how they play their hands as they draw them, the players construct their deck on the fly, striving for the most efficient path to the precious victory points by game end.&#10;&#10;From the back of the box: &quot;Something&rsquo;s afoot. The steward smiles at you like he has a secret, or like he thinks you have a secret, or like you think he thinks you have a secret. There are secret plots brewing, you&rsquo;re sure of it. At the very least, there are yours. A passing servant murmurs, &ldquo;The eggs are on the plate.&rdquo; You frantically search your codebook for the translation before realizing he means that breakfast is ready. Excellent. Everything is going according to plan.&quot;&#10;&#10;Dominion: Intrigue adds rules for playing with up to 8 players at two tables or for playing a single game with up to 6 players when combined with Dominion. This game adds 25 new Kingdom cards and a complete set of Treasure and Victory cards. The game can be played alone by players experienced in Dominion or with the basic game of Dominion.&#10;&#10;Part of the Dominion series.&#10;&#10;Integrates with:&#10;&#10;    Dominion&#10;&#10;&#10;Also released as an expansion that requires the base game or card set to play: Dominion: Die Intrige &#226;&#128;&#147; Erweiterung.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__original/img/VHMKsFZvoK2KKGZiLyoKZb_YhNQ=/0x0/filters:format(jpeg)/pic460011.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__thumb/img/jnSHqOXWLN3PfdpCtnfjf44oTsA=/fit-in/200x150/filters:strip_icc()/pic460011.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playingTime": 30,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2009,
+    "bggRating": 7.53679,
+    "averageRating": 7.69913,
+    "rank": 95,
+    "designers": [
+      "Donald X. Vaccarino"
+    ],
+    "publishers": [
+      "Rio Grande Games",
+      "999 Games",
+      "Albi",
+      "ASS Altenburger Spielkarten",
+      "Bard Centrum Gier",
+      "Devir",
+      "Filosofia Éditions",
+      "Games Factory Publishing",
+      "Gém Klub Kft.",
+      "Giochi Uniti",
+      "Hans im Glück",
+      "Hobby Japan",
+      "Hobby World",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Stupor Mundi",
+      "Swan Panasia Co., Ltd.",
+      "Vennerød Forlag AS"
+    ],
+    "artists": [
+      "Matthias Catrein",
+      "Julien Delval",
+      "Martin Hoffmann",
+      "Tomasz Jedruszek",
+      "Alexander Jung",
+      "Lars-Arne \"Maura\" Kalusky",
+      "Ryan Laukat",
+      "Harald Lieske",
+      "Dennis Lohausen",
+      "Michael Menzel",
+      "Marcel-André Casasola Merkle",
+      "Claus Stephan",
+      "Joshua J. Stewart",
+      "Christof Tisch",
+      "Franz Vohwinkel"
+    ],
+    "complexityRating": "2.42 ",
+    "bestNumPlayers": 3,
+    "myExpansions": [
+      {
+        "gameId": 192951,
+        "name": "Dominion: Empires",
+        "image": "https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__original/img/O7TxK5Euj-f2Zfbp6mUmGR9mgMo=/0x0/filters:format(jpeg)/pic2868179.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__thumb/img/Hivv3FLtgMIXoA7T6rQD5cdamrM=/fit-in/200x150/filters:strip_icc()/pic2868179.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 8.40484,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.77 "
+      },
+      {
+        "gameId": 298055,
+        "name": "Dominion: Menagerie",
+        "image": "https://cf.geekdo-images.com/H2DMvSKMNxUMi45QHmLn2A__original/img/E7tJzKLCZOwwJt2GirbKmqt5QFc=/0x0/filters:format(jpeg)/pic5153393.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/H2DMvSKMNxUMi45QHmLn2A__thumb/img/lF9QNIzgtRDA0FKmcrXhQTJ2Kbo=/fit-in/200x150/filters:strip_icc()/pic5153393.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2020,
+        "bggRating": 0,
+        "averageRating": 8.33916,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.83 "
+      },
+      {
+        "gameId": 66690,
+        "name": "Dominion: Prosperity",
+        "image": "https://cf.geekdo-images.com/fEawLvevkxPv9AQ3mSiwVQ__original/img/NhQI64z4i8MpZZyHPKiHVvbcKaA=/0x0/filters:format(jpeg)/pic1747320.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/fEawLvevkxPv9AQ3mSiwVQ__thumb/img/sjhU3XIXbxzrphkW5UGP2ZMuNMU=/fit-in/200x150/filters:strip_icc()/pic1747320.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2010,
+        "bggRating": 0,
+        "averageRating": 8.24023,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.49 "
+      },
+      {
+        "gameId": 257673,
+        "name": "Dominion: Renaissance",
+        "image": "https://cf.geekdo-images.com/A8eKS09rQjkuuKHtzPmVhA__original/img/kuDm8id1XPxAKTK_oWf-0j2kwQc=/0x0/filters:format(jpeg)/pic4250088.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/A8eKS09rQjkuuKHtzPmVhA__thumb/img/b7mi_GATaLtDx3j53bBq6zH3c4k=/fit-in/200x150/filters:strip_icc()/pic4250088.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.34198,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.56 "
+      },
+      {
+        "gameId": 51811,
+        "name": "Dominion: Seaside",
+        "image": "https://cf.geekdo-images.com/n1_bOankhLYghTFscRAG8A__original/img/Ubjei_-JstZdPfaj542hkxeoHDk=/0x0/filters:format(jpeg)/pic543471.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/n1_bOankhLYghTFscRAG8A__thumb/img/0MteLi-LAm8AwqbIzj_GD7gmRS4=/fit-in/200x150/filters:strip_icc()/pic543471.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2009,
+        "bggRating": 0,
+        "averageRating": 8.02898,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.50 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Dominion: Adventures",
+        "gameId": 171915
+      },
+      {
+        "name": "Dominion: Alchemisten & Reiche Ernte – Mixbox",
+        "gameId": 172592
+      },
+      {
+        "name": "Dominion: Alchemy",
+        "gameId": 66098
+      },
+      {
+        "name": "Dominion: Allies",
+        "gameId": 347307
+      },
+      {
+        "name": "Dominion: Black Market Promo Card",
+        "gameId": 41105
+      },
+      {
+        "name": "Dominion: Captain Promo Card",
+        "gameId": 285887
+      },
+      {
+        "name": "Dominion: Church Promo Card",
+        "gameId": 285888
+      },
+      {
+        "name": "Dominion: Cornucopia",
+        "gameId": 90850
+      },
+      {
+        "name": "Dominion: Dark Ages",
+        "gameId": 125403
+      },
+      {
+        "name": "Dominion: Dismantle Promo Card",
+        "gameId": 238623
+      },
+      {
+        "name": "Dominion: Empires",
+        "gameId": 192951
+      },
+      {
+        "name": "Dominion: Envoy Promo Card",
+        "gameId": 39707
+      },
+      {
+        "name": "Dominion: Erweiterung – Basisspiel & Die Intrige",
+        "gameId": 228386
+      },
+      {
+        "name": "Dominion: Governor Promo Card",
+        "gameId": 110831
+      },
+      {
+        "name": "Dominion: Guilds",
+        "gameId": 137166
+      },
+      {
+        "name": "Dominion: Guilds & Cornucopia",
+        "gameId": 177903
+      },
+      {
+        "name": "Dominion: Hinterlands",
+        "gameId": 104557
+      },
+      {
+        "name": "Dominion: Hinterlands (Second Edition)",
+        "gameId": 365432
+      },
+      {
+        "name": "Dominion: Hinterlands – Update Pack",
+        "gameId": 365192
+      },
+      {
+        "name": "Dominion: Höflinge Promo Card",
+        "gameId": 234892
+      },
+      {
+        "name": "Dominion: Intrigue – Update Pack",
+        "gameId": 209358
+      },
+      {
+        "name": "Dominion: Menagerie",
+        "gameId": 298055
+      },
+      {
+        "name": "Dominion: Nocturne",
+        "gameId": 232452
+      },
+      {
+        "name": "Dominion: Plunder",
+        "gameId": 369536
+      },
+      {
+        "name": "Dominion: Prince Promo Card",
+        "gameId": 160943
+      },
+      {
+        "name": "Dominion: Prosperity",
+        "gameId": 66690
+      },
+      {
+        "name": "Dominion: Prosperity (Second Edition)",
+        "gameId": 362517
+      },
+      {
+        "name": "Dominion: Prosperity – Update Pack",
+        "gameId": 364019
+      },
+      {
+        "name": "Dominion: Renaissance",
+        "gameId": 257673
+      },
+      {
+        "name": "Dominion: Sammlerbox",
+        "gameId": 374339
+      },
+      {
+        "name": "Dominion: Sauna / Avanto Promo Card",
+        "gameId": 209431
+      },
+      {
+        "name": "Dominion: Seaside",
+        "gameId": 51811
+      },
+      {
+        "name": "Dominion: Seaside (Second Edition)",
+        "gameId": 355958
+      },
+      {
+        "name": "Dominion: Seaside – Update Pack",
+        "gameId": 356205
+      },
+      {
+        "name": "Dominion: Stash Promo Card",
+        "gameId": 66682
+      },
+      {
+        "name": "Dominion: Summon Promo Card",
+        "gameId": 182822
+      },
+      {
+        "name": "Dominion: Update Pack",
+        "gameId": 209357
+      },
+      {
+        "name": "Dominion: Walled Village Promo Card",
+        "gameId": 101665
+      },
+      {
+        "name": "Paradox (fan expansion for Dominion)",
+        "gameId": 128915
+      },
+      {
+        "name": "Pirate's Life (fan expansion for Dominion)",
+        "gameId": 232930
+      }
+    ]
+  },
+  {
+    "gameId": 266192,
+    "name": "Wingspan",
+    "description": "Wingspan is&nbsp;a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.&#10;&#10;You are bird enthusiasts&mdash;researchers, bird watchers, ornithologists, and collectors&mdash;seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats  focus on several key aspects of growth:&#10;&#10;&#10;     Gain food tokens via custom dice in a birdfeeder dice tower&#10;     Lay eggs using egg miniatures in a variety of colors&#10;     Draw from hundreds of unique bird cards and play them&#10;&#10;&#10;The winner is the player with the most points after 4 rounds.&#10;&#10;If you enjoy Terraforming Mars and Gizmos, we think this game will take flight at your table.&#10;&#10;&mdash;description from the publisher&#10;&#10;From the 7th printing on, the base game box includes Wingspan: Swift-Start Promo Pack.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "playingTime": 70,
+    "mechanics": [
+      "Contracts",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2019,
+    "bggRating": 7.93029,
+    "averageRating": 8.08062,
+    "rank": 25,
+    "designers": [
+      "Elizabeth Hargrave"
+    ],
+    "publishers": [
+      "Stonemaier Games",
+      "999 Games",
+      "Angry Lion Games",
+      "Arclight Games",
+      "Bluebird Games",
+      "Brain Games",
+      "Delta Vision Publishing",
+      "Divercentro",
+      "Feuerland Spiele",
+      "Ghenos Games",
+      "Green Elephant Games",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Lavka Games",
+      "Ludofy Creative",
+      "Maldito Games",
+      "Matagot",
+      "MINDOK",
+      "MIPL",
+      "NeoTroy Games",
+      "Rebel Sp. z o.o.",
+      "Regatul Jocurilor",
+      "Siam Board Games",
+      "Surfin' Meeple China",
+      "Ігромаг"
+    ],
+    "artists": [
+      "Ana Maria Martinez Jaramillo",
+      "Natalia Rojas",
+      "Greg May",
+      "Beth Sobel"
+    ],
+    "complexityRating": "2.42 ",
+    "bestNumPlayers": 3,
+    "myExpansions": [
+      {
+        "gameId": 290448,
+        "name": "Wingspan: European Expansion",
+        "image": "https://cf.geekdo-images.com/7izK8WM_bgtvBzxQvLGz-A__original/img/NFkKrFCKJ1YUC1x7bpx-WVDhLq0=/0x0/filters:format(jpeg)/pic4982682.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/7izK8WM_bgtvBzxQvLGz-A__thumb/img/Q76pV0p00R8qkcS6o-nczJD7DCk=/fit-in/200x150/filters:strip_icc()/pic4982682.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 70,
+        "isExpansion": true,
+        "yearPublished": 2019,
+        "bggRating": 0,
+        "averageRating": 8.38243,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.38 "
+      },
+      {
+        "gameId": 300580,
+        "name": "Wingspan: Oceania Expansion",
+        "image": "https://cf.geekdo-images.com/Nl_5PvrmI6aS-1qqiJ6JAw__original/img/Y4F8LD6FKN82ERsoe92o25oAF2E=/0x0/filters:format(png)/pic5685481.png",
+        "thumbnail": "https://cf.geekdo-images.com/Nl_5PvrmI6aS-1qqiJ6JAw__thumb/img/ohztPasKZz5F71HTb7YrPasy_xM=/fit-in/200x150/filters:strip_icc()/pic5685481.png",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playingTime": 70,
+        "isExpansion": true,
+        "yearPublished": 2020,
+        "bggRating": 0,
+        "averageRating": 8.51011,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.61 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Frogmouth Fan Pack (fan expansion for Wingspan)",
+        "gameId": 339017
+      },
+      {
+        "name": "Wingspan Promo: Grus japonensis",
+        "gameId": 368895
+      },
+      {
+        "name": "Wingspan: European Expansion",
+        "gameId": 290448
+      },
+      {
+        "name": "Wingspan: Oceania Expansion",
+        "gameId": 300580
+      },
+      {
+        "name": "Wingspan: Swift-Start Promo Pack",
+        "gameId": 290837
+      }
+    ]
+  },
+  {
+    "gameId": 36218,
+    "name": "Dominion",
+    "description": "&quot;You are a monarch, like your parents before you, a ruler of a small pleasant kingdom of rivers and evergreens. Unlike your parents, however, you have hopes and dreams! You want a bigger and more pleasant kingdom, with more rivers and a wider variety of trees. You want a Dominion! In all directions lie fiefs, freeholds, and feodums. All are small bits of land, controlled by petty lords and verging on anarchy. You will bring civilization to these people, uniting them under your banner.&#10;&#10;But wait! It must be something in the air; several other monarchs have had the exact same idea. You must race to get as much of the unclaimed land as possible, fending them off along the way. To do this you will hire minions, construct buildings, spruce up your castle, and fill the coffers of your treasury. Your parents wouldn't be proud, but your grandparents, on your mother's side, would be delighted.&quot;&#10;&#10;&mdash;description from the back of the box&#10;&#10;In Dominion, each player starts with an identical, very small deck of cards.  In the center of the table is a selection of other cards the players can &quot;buy&quot; as they can afford them.  Through their selection of cards to buy, and how they play their hands as they draw them, the players construct their deck on the fly, striving for the most efficient path to the precious victory points by game end.&#10;&#10;Dominion is not a CCG, but the play of the game is similar to the construction and play of a CCG deck. The game comes with 500 cards. You select 10 of the 25 Kingdom card types to include in any given play&mdash;leading to immense variety.&#10;&#10;&mdash;user summary&#10;&#10;Part of the Dominion series.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__original/img/96COuakNiLRrjDLc1sM4Zxsw4WE=/0x0/filters:format(jpeg)/pic394356.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__thumb/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 30,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2008,
+    "bggRating": 7.48914,
+    "averageRating": 7.60352,
+    "rank": 113,
+    "designers": [
+      "Donald X. Vaccarino"
+    ],
+    "publishers": [
+      "Rio Grande Games",
+      "999 Games",
+      "Albi",
+      "Bard Centrum Gier",
+      "Conclave Editora",
+      "cutia.ro",
+      "Devir",
+      "Filosofia Éditions",
+      "Games Factory Publishing",
+      "Gém Klub Kft.",
+      "Hans im Glück",
+      "Hobby Japan",
+      "Hobby World",
+      "IUVI Games",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Martinex",
+      "Runadrake",
+      "Smart Ltd",
+      "Stupor Mundi",
+      "Swan Panasia Co., Ltd.",
+      "Vennerød Forlag AS",
+      "Ystari Games"
+    ],
+    "artists": [
+      "Matthias Catrein",
+      "Julien Delval",
+      "Tomasz Jedruszek",
+      "Ryan Laukat",
+      "Harald Lieske",
+      "Michael Menzel",
+      "Marcel-André Casasola Merkle",
+      "Claus Stephan",
+      "Christof Tisch"
+    ],
+    "complexityRating": "2.36 ",
+    "bestNumPlayers": 3,
+    "myExpansions": [
+      {
+        "gameId": 192951,
+        "name": "Dominion: Empires",
+        "image": "https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__original/img/O7TxK5Euj-f2Zfbp6mUmGR9mgMo=/0x0/filters:format(jpeg)/pic2868179.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__thumb/img/Hivv3FLtgMIXoA7T6rQD5cdamrM=/fit-in/200x150/filters:strip_icc()/pic2868179.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 8.40484,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.77 "
+      },
+      {
+        "gameId": 298055,
+        "name": "Dominion: Menagerie",
+        "image": "https://cf.geekdo-images.com/H2DMvSKMNxUMi45QHmLn2A__original/img/E7tJzKLCZOwwJt2GirbKmqt5QFc=/0x0/filters:format(jpeg)/pic5153393.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/H2DMvSKMNxUMi45QHmLn2A__thumb/img/lF9QNIzgtRDA0FKmcrXhQTJ2Kbo=/fit-in/200x150/filters:strip_icc()/pic5153393.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2020,
+        "bggRating": 0,
+        "averageRating": 8.33916,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.83 "
+      },
+      {
+        "gameId": 66690,
+        "name": "Dominion: Prosperity",
+        "image": "https://cf.geekdo-images.com/fEawLvevkxPv9AQ3mSiwVQ__original/img/NhQI64z4i8MpZZyHPKiHVvbcKaA=/0x0/filters:format(jpeg)/pic1747320.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/fEawLvevkxPv9AQ3mSiwVQ__thumb/img/sjhU3XIXbxzrphkW5UGP2ZMuNMU=/fit-in/200x150/filters:strip_icc()/pic1747320.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2010,
+        "bggRating": 0,
+        "averageRating": 8.24023,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.49 "
+      },
+      {
+        "gameId": 257673,
+        "name": "Dominion: Renaissance",
+        "image": "https://cf.geekdo-images.com/A8eKS09rQjkuuKHtzPmVhA__original/img/kuDm8id1XPxAKTK_oWf-0j2kwQc=/0x0/filters:format(jpeg)/pic4250088.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/A8eKS09rQjkuuKHtzPmVhA__thumb/img/b7mi_GATaLtDx3j53bBq6zH3c4k=/fit-in/200x150/filters:strip_icc()/pic4250088.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 8.34198,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.56 "
+      },
+      {
+        "gameId": 51811,
+        "name": "Dominion: Seaside",
+        "image": "https://cf.geekdo-images.com/n1_bOankhLYghTFscRAG8A__original/img/Ubjei_-JstZdPfaj542hkxeoHDk=/0x0/filters:format(jpeg)/pic543471.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/n1_bOankhLYghTFscRAG8A__thumb/img/0MteLi-LAm8AwqbIzj_GD7gmRS4=/fit-in/200x150/filters:strip_icc()/pic543471.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2009,
+        "bggRating": 0,
+        "averageRating": 8.02898,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.50 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Ancient Times (fan expansion for Dominion)",
+        "gameId": 283819
+      },
+      {
+        "name": "Animals (fan expansion for Dominion)",
+        "gameId": 203184
+      },
+      {
+        "name": "The Books of Magic (fan expansion for Dominion)",
+        "gameId": 69035
+      },
+      {
+        "name": "Dominion: Adventures",
+        "gameId": 171915
+      },
+      {
+        "name": "Dominion: Alchemisten & Reiche Ernte – Mixbox",
+        "gameId": 172592
+      },
+      {
+        "name": "Dominion: Alchemy",
+        "gameId": 66098
+      },
+      {
+        "name": "Dominion: Allies",
+        "gameId": 347307
+      },
+      {
+        "name": "Dominion: Black Market Promo Card",
+        "gameId": 41105
+      },
+      {
+        "name": "Dominion: Captain Promo Card",
+        "gameId": 285887
+      },
+      {
+        "name": "Dominion: Church Promo Card",
+        "gameId": 285888
+      },
+      {
+        "name": "Dominion: Cornucopia",
+        "gameId": 90850
+      },
+      {
+        "name": "Dominion: Dark Ages",
+        "gameId": 125403
+      },
+      {
+        "name": "Dominion: Die Intrige – Erweiterung",
+        "gameId": 160673
+      },
+      {
+        "name": "Dominion: Dismantle Promo Card",
+        "gameId": 238623
+      },
+      {
+        "name": "Dominion: Empires",
+        "gameId": 192951
+      },
+      {
+        "name": "Dominion: Envoy Promo Card",
+        "gameId": 39707
+      },
+      {
+        "name": "Dominion: Erweiterung – Basisspiel & Die Intrige",
+        "gameId": 228386
+      },
+      {
+        "name": "Dominion: Fan-Edition I",
+        "gameId": 187740
+      },
+      {
+        "name": "Dominion: Governor Promo Card",
+        "gameId": 110831
+      },
+      {
+        "name": "Dominion: Guilds",
+        "gameId": 137166
+      },
+      {
+        "name": "Dominion: Guilds & Cornucopia",
+        "gameId": 177903
+      },
+      {
+        "name": "Dominion: Hinterlands",
+        "gameId": 104557
+      },
+      {
+        "name": "Dominion: Hinterlands (Second Edition)",
+        "gameId": 365432
+      },
+      {
+        "name": "Dominion: Hinterlands – Update Pack",
+        "gameId": 365192
+      },
+      {
+        "name": "Dominion: Höflinge Promo Card",
+        "gameId": 234892
+      },
+      {
+        "name": "Dominion: Intrigue (Second Edition)",
+        "gameId": 209419
+      },
+      {
+        "name": "Dominion: Intrigue – Update Pack",
+        "gameId": 209358
+      },
+      {
+        "name": "Dominion: Menagerie",
+        "gameId": 298055
+      },
+      {
+        "name": "Dominion: Nocturne",
+        "gameId": 232452
+      },
+      {
+        "name": "Dominion: Plunder",
+        "gameId": 369536
+      },
+      {
+        "name": "Dominion: Prince Promo Card",
+        "gameId": 160943
+      },
+      {
+        "name": "Dominion: Prosperity",
+        "gameId": 66690
+      },
+      {
+        "name": "Dominion: Prosperity (Second Edition)",
+        "gameId": 362517
+      },
+      {
+        "name": "Dominion: Prosperity – Update Pack",
+        "gameId": 364019
+      },
+      {
+        "name": "Dominion: Renaissance",
+        "gameId": 257673
+      },
+      {
+        "name": "Dominion: Sammlerbox",
+        "gameId": 374339
+      },
+      {
+        "name": "Dominion: Sauna / Avanto Promo Card",
+        "gameId": 209431
+      },
+      {
+        "name": "Dominion: Seaside",
+        "gameId": 51811
+      },
+      {
+        "name": "Dominion: Seaside (Second Edition)",
+        "gameId": 355958
+      },
+      {
+        "name": "Dominion: Seaside – Update Pack",
+        "gameId": 356205
+      },
+      {
+        "name": "Dominion: Stash Promo Card",
+        "gameId": 66682
+      },
+      {
+        "name": "Dominion: Summon Promo Card",
+        "gameId": 182822
+      },
+      {
+        "name": "Dominion: Update Pack",
+        "gameId": 209357
+      },
+      {
+        "name": "Dominion: Walled Village Promo Card",
+        "gameId": 101665
+      },
+      {
+        "name": "Duel (fan expansion for Dominion)",
+        "gameId": 141918
+      },
+      {
+        "name": "Fairy Tale (fan expansion for Dominion)",
+        "gameId": 68281
+      },
+      {
+        "name": "Paradox (fan expansion for Dominion)",
+        "gameId": 128915
+      },
+      {
+        "name": "Pirate's Life (fan expansion for Dominion)",
+        "gameId": 232930
+      },
+      {
+        "name": "Royal Court (fan expansion for Dominion)",
+        "gameId": 88046
+      },
+      {
+        "name": "Salvation (fan expansion for Dominion)",
+        "gameId": 80435
+      },
+      {
+        "name": "The Scrolls of Power (fan expansion for Dominion)",
+        "gameId": 123095
+      },
+      {
+        "name": "Stadt Land Spielt Limitierte Sonderdrucke 2015",
+        "gameId": 186885
+      },
+      {
+        "name": "Stadt Land Spielt Minierweiterungen 2016",
+        "gameId": 210658
+      },
+      {
+        "name": "Warmonger (fan expansion for Dominion)",
+        "gameId": 139778
+      }
+    ]
+  },
+  {
+    "gameId": 68448,
+    "name": "7 Wonders",
+    "description": "You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.&#10;&#10;7 Wonders lasts three ages. In each age, players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with other players in various ways. (Players have individual boards with special powers on which to organize their cards, and the boards are double-sided). Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play from that age. After three ages, the game ends.&#10;&#10;In essence, 7 Wonders is a card development game. Some cards have immediate effects, while others provide bonuses or upgrades later in the game. Some cards provide discounts on future purchases. Some provide military strength to overpower your neighbors and others give nothing but victory points. Each card is played immediately after being drafted, so you'll know which cards your neighbor is receiving and how her choices might affect what you've already built up. Cards are passed left-right-left over the three ages, so you need to keep an eye on the neighbors in both directions.&#10;&#10;Though the box of earlier editions is listed as being for 3&ndash;7 players, there is an official 2-player variant included in the instructions.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__original/img/jt70jJDZ1y1FWJs4ZQf5FI8APVY=/0x0/filters:format(jpeg)/pic7149798.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__thumb/img/BUOso8b0M1aUOkU80FWlhE8uuxc=/fit-in/200x150/filters:strip_icc()/pic7149798.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "playingTime": 30,
+    "mechanics": [
+      "Closed Drafting",
+      "Hand Management",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2010,
+    "bggRating": 7.60858,
+    "averageRating": 7.71252,
+    "rank": 83,
+    "designers": [
+      "Antoine Bauza"
+    ],
+    "publishers": [
+      "Repos Production",
+      "ADC Blackfire Entertainment",
+      "Asmodee",
+      "Asterion Press",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "Hobby Japan",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Lifestyle Boardgames Ltd",
+      "NeoTroy Games",
+      "Rebel Sp. z o.o.",
+      "Siam Board Games"
+    ],
+    "artists": [
+      "Dimitri Chappuis",
+      "Miguel Coimbra",
+      "Etienne Hebinger",
+      "Cyril Nouvel"
+    ],
+    "complexityRating": "2.32 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 111661,
+        "name": "7 Wonders: Cities",
+        "image": "https://cf.geekdo-images.com/P1kQ0kQIoulihI9KlBh4MQ__original/img/NrP-hKXMjJ0poBOQ9_k2DLR8L7E=/0x0/filters:format(jpeg)/pic1380423.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/P1kQ0kQIoulihI9KlBh4MQ__thumb/img/a8r8IJ69_I4PPUCztFsottowdfQ=/fit-in/200x150/filters:strip_icc()/pic1380423.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "playingTime": 40,
+        "isExpansion": true,
+        "yearPublished": 2012,
+        "bggRating": 0,
+        "averageRating": 7.82092,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.35 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "7 Wonders: Armada",
+        "gameId": 247315
+      },
+      {
+        "name": "7 Wonders: Armada – Siracusa",
+        "gameId": 262276
+      },
+      {
+        "name": "7 Wonders: Babel",
+        "gameId": 154638
+      },
+      {
+        "name": "7 Wonders: Catan",
+        "gameId": 110308
+      },
+      {
+        "name": "7 Wonders: Cities",
+        "gameId": 111661
+      },
+      {
+        "name": "7 Wonders: Companion App",
+        "gameId": 368780
+      },
+      {
+        "name": "7 Wonders: Leaders",
+        "gameId": 92539
+      },
+      {
+        "name": "7 Wonders: Leaders Anniversary Pack",
+        "gameId": 231167
+      },
+      {
+        "name": "7 Wonders: Leaders – Esteban",
+        "gameId": 130236
+      },
+      {
+        "name": "7 Wonders: Leaders – Louis",
+        "gameId": 127838
+      },
+      {
+        "name": "7 Wonders: Leaders – Nimrod",
+        "gameId": 166329
+      },
+      {
+        "name": "7 Wonders: Leaders – Stevie",
+        "gameId": 99315
+      },
+      {
+        "name": "7 Wonders: Leaders – Wil",
+        "gameId": 156119
+      },
+      {
+        "name": "7 Wonders: Manneken Pis",
+        "gameId": 83445
+      },
+      {
+        "name": "7 Wonders: Wonder Pack",
+        "gameId": 133993
+      },
+      {
+        "name": "Collection (fan expansion for 7 Wonders)",
+        "gameId": 164649
+      },
+      {
+        "name": "Empires (fan expansion for 7 Wonders)",
+        "gameId": 140098
+      },
+      {
+        "name": "Game Wonders (fan expansion for 7 Wonders)",
+        "gameId": 138187
+      },
+      {
+        "name": "Lost Wonders (fan expansion for 7 Wonders)",
+        "gameId": 134849
+      },
+      {
+        "name": "Modern Wonders (fan expansion for 7 Wonders)",
+        "gameId": 329310
+      },
+      {
+        "name": "More Wonders... (fan expansion for 7 Wonders)",
+        "gameId": 131947
+      },
+      {
+        "name": "Myths (fan expansion for 7 Wonders)",
+        "gameId": 132146
+      },
+      {
+        "name": "Ruins (fan expansion for 7 Wonders)",
+        "gameId": 164648
+      },
+      {
+        "name": "Sailors (fan expansion for 7 Wonders)",
+        "gameId": 164647
+      }
+    ]
+  },
+  {
+    "gameId": 173346,
+    "name": "7 Wonders Duel",
+    "description": "In many ways 7 Wonders Duel resembles its parent game 7 Wonders as over three ages players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders.&#10;&#10;What's different about 7 Wonders Duel is that, as the title suggests, the game is solely for two players, with the players not drafting cards simultaneously from hands of cards, but from a display of face-down and face-up cards arranged at the start of a round. A player can take a card only if it's not covered by any others, so timing comes into play as well as bonus moves that allow you to take a second card immediately. As in the original game, each card that you acquire can be built, discarded for coins, or used to construct a wonder.&#10;&#10;Each player starts with four wonder cards, and the construction of a wonder provides its owner with a special ability. Only seven wonders can be built, though, so one player will end up short.&#10;&#10;Players can purchase resources at any time from the bank, or they can gain cards during the game that provide them with resources for future building; as you acquire resources, the cost for those particular resources increases for your opponent, representing your dominance in this area.&#10;&#10;A player can win 7 Wonders Duel in one of three ways: each time you acquire a military card, you advance the military marker toward your opponent's capital, giving you a bonus at certain positions; if you reach the opponent's capital, you win the game immediately; similarly, if you acquire any six of seven different scientific symbols, you achieve scientific dominance and win immediately; if none of these situations occurs, then the player with the most points at the end of the game wins.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__thumb/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "playingTime": 30,
+    "mechanics": [
+      "Layering",
+      "Open Drafting",
+      "Set Collection",
+      "Sudden Death Ending",
+      "Tug of War",
+      "Variable Player Powers"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2015,
+    "bggRating": 7.97678,
+    "averageRating": 8.09991,
+    "rank": 19,
+    "designers": [
+      "Antoine Bauza",
+      "Bruno Cathala"
+    ],
+    "publishers": [
+      "Repos Production",
+      "ADC Blackfire Entertainment",
+      "Asmodee China",
+      "Asmodee Italia",
+      "Asterion Press",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "Hobby Japan",
+      "KADABRA",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Lifestyle Boardgames Ltd",
+      "Ludicus",
+      "Ponva d.o.o.",
+      "Pridemage Games",
+      "Rebel Sp. z o.o.",
+      "Siam Board Games",
+      "Sombreros Production",
+      "Ігромаг"
+    ],
+    "artists": [
+      "Miguel Coimbra"
+    ],
+    "complexityRating": "2.22 ",
+    "bestNumPlayers": 2,
+    "myExpansions": [
+      {
+        "gameId": 309116,
+        "name": "7 Wonders Duel: Agora",
+        "image": "https://cf.geekdo-images.com/WJuYXVjj7j8gYPz0ptXm3w__original/img/lbMoTzYmZ8UkM18gY7zq2-6WES0=/0x0/filters:format(jpeg)/pic5692719.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/WJuYXVjj7j8gYPz0ptXm3w__thumb/img/p0rTFzy54iLEOEDIxzjFeCYYpE4=/fit-in/200x150/filters:strip_icc()/pic5692719.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2020,
+        "bggRating": 0,
+        "averageRating": 8.12468,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.91 "
+      },
+      {
+        "gameId": 202976,
+        "name": "7 Wonders Duel: Pantheon",
+        "image": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__original/img/rwOQ9RK6_C9gIy-g_dgkdF6Mb7Y=/0x0/filters:format(png)/pic3143885.png",
+        "thumbnail": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__thumb/img/7KX-iJ5e3ZW0LnbEd9OQHRSpHG8=/fit-in/200x150/filters:strip_icc()/pic3143885.png",
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "playingTime": 30,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 8.01184,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.31 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "7 Wonders Duel Leaders (fan expansion)",
+        "gameId": 274383
+      },
+      {
+        "name": "7 Wonders Duel: Agora",
+        "gameId": 309116
+      },
+      {
+        "name": "7 Wonders Duel: Pantheon",
+        "gameId": 202976
+      },
+      {
+        "name": "7 Wonders Duel: Solo",
+        "gameId": 310215
+      },
+      {
+        "name": "7 Wonders Duel: Statue of Liberty",
+        "gameId": 196339
+      },
+      {
+        "name": "7 Wonders Duel: The Messe Essen Promo Card",
+        "gameId": 186069
+      }
+    ]
+  },
+  {
+    "gameId": 320,
+    "name": "Scrabble",
+    "description": "In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses.  But a word can only be played if it uses at least one already-played tile or adds to an already-played word.  This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.&#10;&#10;Skip-a-cross was licensed by Selchow &amp; Righter and manufactured by Cadaco. Both games have identical rules but Skip-a-cross has tiles and racks made of cardboard instead of wood. The game was also published because not enough Scrabble games were manufactured to meet the demand.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__original/img/11jrKPiOVTNl5NwX83KGtTZEq40=/0x0/filters:format(jpeg)/pic404651.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__thumb/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 90,
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "isExpansion": false,
+    "yearPublished": 1948,
+    "bggRating": 6.15265,
+    "averageRating": 6.26961,
+    "rank": 2039,
+    "designers": [
+      "Alfred Mosher Butts"
+    ],
+    "publishers": [
+      "Alga",
+      "Barnes & Noble",
+      "Borras Plana S.A.",
+      "Brio AB",
+      "Cadaco",
+      "Cappelen",
+      "Casa Estanciero S.R.L.",
+      "CEFA (Celulosa Fabril S. A.)",
+      "Chieftain Products",
+      "Damm / Egmont",
+      "Dino Toys s. r. o.",
+      "Drechsler",
+      "Estrela",
+      "Falomir Juegos",
+      "Fundex",
+      "Habourdin International",
+      "Hasbro",
+      "Holdson",
+      "Joker",
+      "Juegos Crone",
+      "Jumbo",
+      "KADABRA",
+      "Korea Boardgames Co., Ltd.",
+      "Kuvataide",
+      "Labo-Mix",
+      "Mattel, Inc.",
+      "Max Ploys",
+      "Milton Bradley",
+      "Murfett",
+      "NeoTroy Games",
+      "The Op",
+      "Parker Brothers",
+      "Paul Lamond Games Ltd",
+      "Piatnik",
+      "Playmix",
+      "Production & Marketing Company",
+      "Ravensburger",
+      "Refax Oy",
+      "ren ehf.",
+      "Schowanek",
+      "Selchow & Righter",
+      "Sio",
+      "Spear's Games",
+      "Spectrum Games Corporation",
+      "Spil hf.",
+      "Super Impulse",
+      "SYU Creation",
+      "Tinderbox Games",
+      "ToyCo",
+      "T. R. Urban & Co.",
+      "Winning Moves Games (USA)",
+      "Winning Solutions (WS Game Company)",
+      "Xalingo Brinquedos",
+      "YOHAN",
+      "Zontik Games"
+    ],
+    "artists": [
+      "(Uncredited)",
+      "C. Leslie Crandall"
+    ],
+    "complexityRating": "2.09 ",
+    "bestNumPlayers": 2,
+    "expansions": [
+      {
+        "name": "Improving Games: Scrabble",
+        "gameId": 352255
+      },
+      {
+        "name": "Scrabble: Big Eszett (ß)",
+        "gameId": 238822
+      },
+      {
+        "name": "Scrabble: Genderstein",
+        "gameId": 374309
+      }
+    ]
+  },
+  {
+    "gameId": 34887,
+    "name": "Revolution!",
+    "description": "Blackmail the printer. Threaten the innkeeper. Bribe the priest. Welcome to Revolution!&#10;&#10;Secretly bid against your opponents to gain victory points, control territories (worth victory points at the end of the game) and collect more Gold, Blackmail, and Force tokens for the next round of bidding! Will you try to control the tavern or the fortress? The harbor or the plantation? Knowing where to push for points &ndash; and where to back away and let your opponents fight &ndash; is the key to victory. Whoever has the most victory points at the end of the game wins.  It's a game of bluff, counter-bluff, and surprise!&#10;&#10;Bidding tokens have different shapes and colors for easy identification. Colorful cardstock shields keep your bids private, and also provide a handy rules reference during the auction. Brightly-colored wooden blocks allow players to see, at a glance, who controls which colonial-themed territories.&#10;&#10;Revolution! is for three or four players. The rules can be taught in minutes, and a complete game takes less than an hour. Each new game lets players find new strategies and tactics.&#10;&#10;Get ready for Revolution!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/QNfiVUjQUb3WizjliCu1NQ__original/img/cOLsJLDgN48hxRgmkQOBq6mIDaw=/0x0/filters:format(jpeg)/pic470283.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QNfiVUjQUb3WizjliCu1NQ__thumb/img/kRlifxVWcTgtaHcZyCfad27nAwk=/fit-in/200x150/filters:strip_icc()/pic470283.jpg",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "playingTime": 60,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction/Bidding",
+      "Auction: Multiple Lot",
+      "Simultaneous Action Selection"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2009,
+    "bggRating": 6.32165,
+    "averageRating": 6.72208,
+    "rank": 1509,
+    "designers": [
+      "Philip duBarry"
+    ],
+    "publishers": [
+      "Pegasus Spiele",
+      "Revolution Games (I)",
+      "Steve Jackson Games"
+    ],
+    "artists": [
+      "Will Schoonover",
+      "Claus Stephan",
+      "Ben Williams"
+    ],
+    "complexityRating": "2.04 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 160783,
+        "name": "Revolution! Anarchy",
+        "image": "https://cf.geekdo-images.com/wlyxgSaHUL80oaZ8cy3P_Q__original/img/AeBWiECYLxm2bEyPtGUFsAcq__A=/0x0/filters:format(jpeg)/pic2045742.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/wlyxgSaHUL80oaZ8cy3P_Q__thumb/img/2vCQUnm-tMDebi8JbBz-JsQvAoQ=/fit-in/200x150/filters:strip_icc()/pic2045742.jpg",
+        "minPlayers": 3,
+        "maxPlayers": 6,
+        "playingTime": -1,
+        "isExpansion": true,
+        "yearPublished": 2014,
+        "bggRating": 0,
+        "averageRating": 7.48185,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.50 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "New Characters (fan expansion for Revolution)",
+        "gameId": 85516
+      },
+      {
+        "name": "Revolution! Anarchy",
+        "gameId": 160783
+      },
+      {
+        "name": "Revolution! The Palace",
+        "gameId": 67731
+      }
+    ]
+  },
+  {
+    "gameId": 194594,
+    "name": "Dice Forge",
+    "description": "Heroes, stand ready! The gods are offering a seat in heaven to whichever hero defeats their rivals. Your courage and wits will be your most precious allies as you use divine dice to gather resources along the road to victory.&#10;&#10;Your divine dice are exceptional, with removable faces! Customize your dice to make them more powerful as the game progresses. Sacrifice gold to the gods to obtain enhanced die faces. Upgrade your dice to produce the resources you need. Overcome ordeals concocted by the gods to grow in glory and earn rewards. Skillfully manage the luck of the dice and take charge of your destiny. Only the greatest will ascend to the heavens!&#10;&#10;Dice Forge is a development game featuring innovative mechanics based on dice with removable faces. In this dice crafting game, players build their own dice. Roll your dice, manage your resources, complete ordeals before your opponents and explore multiple winning strategies.&#10;&#10;Now you control the luck of the dice!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__original/img/8G3m0Cc_y3Qa0jcFn4ynWTwOV3A=/0x0/filters:format(jpeg)/pic3477004.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__thumb/img/BWNtptZ90Cutx39I3Celuvirt78=/fit-in/200x150/filters:strip_icc()/pic3477004.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 45,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Open Drafting",
+      "Random Production"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2017,
+    "bggRating": 7.04557,
+    "averageRating": 7.2515,
+    "rank": 382,
+    "designers": [
+      "Régis Bonnessée"
+    ],
+    "publishers": [
+      "Libellud",
+      "ADC Blackfire Entertainment",
+      "Asmodee",
+      "Asmodee China",
+      "Asterion Press",
+      "Broadway Toys LTD",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "Hobby Japan",
+      "Lifestyle Boardgames Ltd",
+      "Rebel Sp. z o.o."
+    ],
+    "artists": [
+      "Biboun"
+    ],
+    "complexityRating": "1.97 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 258003,
+        "name": "Dice Forge: Rebellion",
+        "image": "https://cf.geekdo-images.com/JYefnEWBuVJ_d4cbA2W9Sg__original/img/BDXJdkI0AvkTeoopt8loiMJV08I=/0x0/filters:format(jpeg)/pic4347678.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/JYefnEWBuVJ_d4cbA2W9Sg__thumb/img/xAyxx_TNuuHs4wq89nZBSLBt5l4=/fit-in/200x150/filters:strip_icc()/pic4347678.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "playingTime": 40,
+        "isExpansion": true,
+        "yearPublished": 2019,
+        "bggRating": 0,
+        "averageRating": 7.66913,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "2.38 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Dice Forge: Chimera",
+        "gameId": 255631
+      },
+      {
+        "name": "Dice Forge: Dice Tower",
+        "gameId": 319710
+      },
+      {
+        "name": "Dice Forge: Harpies",
+        "gameId": 295132
+      },
+      {
+        "name": "Dice Forge: Mother of Monsters",
+        "gameId": 255354
+      },
+      {
+        "name": "Dice Forge: Nymph",
+        "gameId": 276012
+      },
+      {
+        "name": "Dice Forge: Piranha Princesse",
+        "gameId": 367228
+      },
+      {
+        "name": "Dice Forge: Rebellion",
+        "gameId": 258003
+      },
+      {
+        "name": "Dice Forge: Rebellion – Hera Promo Card",
+        "gameId": 268363
+      },
+      {
+        "name": "Dice Forge: Rebellion – The Pegasus Promo Card",
+        "gameId": 268362
+      },
+      {
+        "name": "Dice Forge: Rebellion – The Wheel of Fortune Promo Card",
+        "gameId": 268365
+      },
+      {
+        "name": "Dice Forge: Seagull Magician",
+        "gameId": 276013
+      },
+      {
+        "name": "Dice Forge: The Horn of Plenty promo card",
+        "gameId": 348813
+      }
+    ]
+  },
+  {
+    "gameId": 230914,
+    "name": "Carcassonne Big Box 6",
+    "description": "The sixth edition of the Carcassonne Big Box contains the Carcassonne base game, the Inns &amp; Cathedrals and Traders &amp; Builders expansions, the mini-expansions The River and The Abbot now included with the base game, and the six mini-expansions from 2012: Carcassonne: The Flying Machines, Carcassonne: The Messengers, Carcassonne: The Ferries, Carcassonne: The Gold Mines, Carcassonne: Mage &amp; Witch, and Carcassonne: The Robbers; these six each include one of the six tiles for the Carcassonne: The Corn Circles II/Crop Circles II mini expansion.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/RuVaR99haabPBv8xQP-K7g__original/img/EJcx2LOvZUbYiBULcC0vK6iqS6A=/0x0/filters:format(png)/pic6882456.png",
+    "thumbnail": "https://cf.geekdo-images.com/RuVaR99haabPBv8xQP-K7g__thumb/img/nGTNaDvoURPZrg7Jv6ZPL3cXswE=/fit-in/200x150/filters:strip_icc()/pic6882456.png",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playingTime": 35,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2017,
+    "bggRating": 7.10124,
+    "averageRating": 8.13036,
+    "rank": -1,
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ],
+    "publishers": [
+      "Hans im Glück",
+      "999 Games",
+      "Bard Centrum Gier",
+      "Devir",
+      "Fantasmagoria",
+      "Giochi Uniti",
+      "Hobby World",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "MINDOK",
+      "Oxygame",
+      "Piatnik",
+      "Swan Panasia Co., Ltd.",
+      "Z-Man Games"
+    ],
+    "artists": [
+      "Marcel Gröber",
+      "Anne Pätzke",
+      "Chris Quilliams"
+    ],
+    "complexityRating": "1.94 ",
+    "bestNumPlayers": 2,
+    "expansions": [
+      {
+        "name": "Carcassonne: Bonusplättchen Spiel 2016",
+        "gameId": 210799
+      },
+      {
+        "name": "Carcassonne: Bonusplättchen Spiel 2020",
+        "gameId": 321496
+      },
+      {
+        "name": "Carcassonne: Das Labyrinth",
+        "gameId": 195771
+      },
+      {
+        "name": "Carcassonne: Expansion 10 – Under the Big Top",
+        "gameId": 217006
+      },
+      {
+        "name": "Carcassonne: Expansion 3 – The Princess & The Dragon",
+        "gameId": 15158
+      },
+      {
+        "name": "Carcassonne: Expansion 4 – The Tower",
+        "gameId": 21385
+      },
+      {
+        "name": "Carcassonne: Expansion 5 – Abbey & Mayor",
+        "gameId": 31784
+      },
+      {
+        "name": "Carcassonne: Expansion 6 – Count, King & Robber",
+        "gameId": 33458
+      },
+      {
+        "name": "Carcassonne: Expansion 8 – Bridges, Castles and Bazaars",
+        "gameId": 66646
+      },
+      {
+        "name": "Carcassonne: Expansion 9 – Hills & Sheep",
+        "gameId": 153773
+      },
+      {
+        "name": "Carcassonne: German Cathedrals",
+        "gameId": 196080
+      },
+      {
+        "name": "Carcassonne: The School",
+        "gameId": 104634
+      }
+    ]
+  },
+  {
+    "gameId": 14996,
+    "name": "Ticket to Ride: Europe",
+    "description": "Ticket to Ride: Europe takes you on a new train adventure across Europe. From Edinburgh to Constantinople and from Lisbon to Moscow, you'll visit great cities of turn-of-the-century Europe. Like the original Ticket to Ride, the game remains elegantly simple, can be learned in 5 minutes, and appeals to both families and experienced gamers. Ticket to Ride: Europe is a complete, new game and does not require the original version.&#10;&#10;More than just a new map, Ticket to Ride: Europe features brand new gameplay elements. Tunnels may require you to pay extra cards to build on them, Ferries require locomotive cards in order to claim them, and Stations allow you to sacrifice a few points in order to use an opponent's route to connect yours. The game also includes larger format cards and Train Station game pieces.&#10;&#10;The overall goal remains the same: collect and play train cards in order to place your pieces on the board, attempting to connect cities on your ticket cards. Points are earned both from placing trains and completing tickets but uncompleted tickets lose you points. The player who has the most points at the end of the game wins.&#10;&#10;Copyright 2002-2014 Days of Wonder, inc.&#10;&#10;Part of the Ticket to Ride series.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__original/img/O37sCRSJLq4S8EpCxFDNVsNBuxE=/0x0/filters:format(jpeg)/pic66668.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__thumb/img/RDvu2FvsYVVH8icp1VsilUlqUGI=/fit-in/200x150/filters:strip_icc()/pic66668.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playingTime": 60,
+    "mechanics": [
+      "Connections",
+      "End Game Bonuses",
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2005,
+    "bggRating": 7.41482,
+    "averageRating": 7.53628,
+    "rank": 143,
+    "designers": [
+      "Alan R. Moon"
+    ],
+    "publishers": [
+      "Days of Wonder",
+      "ADC Blackfire Entertainment",
+      "Asmodee China",
+      "Asterion Press",
+      "Bergsala Enigma (Enigma)",
+      "Boardgame Space",
+      "Compaya.hu: Gamer Café Kft.",
+      "Edge Entertainment",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "GoKids 玩樂小子",
+      "Happy Baobab",
+      "Hobby Japan",
+      "Hobby World",
+      "KADABRA",
+      "Kaissa Chess & Games",
+      "KDS Distribuzione",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Lord of Boards",
+      "Nordic Games GmbH",
+      "Ponva d.o.o.",
+      "Rebel Sp. z o.o.",
+      "Runadrake",
+      "Smart Ltd"
+    ],
+    "artists": [
+      "Cyrille Daujean",
+      "Julien Delval"
+    ],
+    "complexityRating": "1.94 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Alsace (fan expansion for Ticket to Ride)",
+        "gameId": 120037
+      },
+      {
+        "name": "Les Aventuriers du Rail: à Lyon (fan expansion for Ticket to Ride)",
+        "gameId": 108422
+      },
+      {
+        "name": "Les Aventuriers du Rail: en Belgique (fan expansion to Ticket to Ride)",
+        "gameId": 120034
+      },
+      {
+        "name": "Bretagne (fan expansion for Ticket to Ride)",
+        "gameId": 130427
+      },
+      {
+        "name": "Bretagne TT Version (Fan expansion for Ticket To Ride)",
+        "gameId": 363049
+      },
+      {
+        "name": "Britain & Ireland (fan expansion for Ticket to Ride: Europe)",
+        "gameId": 114528
+      },
+      {
+        "name": "Castilla y León (fan expansion for Ticket to Ride)",
+        "gameId": 70712
+      },
+      {
+        "name": "Eurasia (fan expansion for Ticket to Ride)",
+        "gameId": 339897
+      },
+      {
+        "name": "Extension France (fan expansion for Ticket to Ride)",
+        "gameId": 123217
+      },
+      {
+        "name": "Göteborg (fan expansion for Ticket to Ride)",
+        "gameId": 289599
+      },
+      {
+        "name": "Holland (fan expansion for Ticket to Ride)",
+        "gameId": 130183
+      },
+      {
+        "name": "Holland Express (fan expansion for Ticket to Ride)",
+        "gameId": 130483
+      },
+      {
+        "name": "Italy (fan expansion for Ticket to Ride)",
+        "gameId": 130399
+      },
+      {
+        "name": "Italy (fan expansion for Ticket to Ride)",
+        "gameId": 130484
+      },
+      {
+        "name": "Italy (fan expansion for Ticket to Ride)",
+        "gameId": 130485
+      },
+      {
+        "name": "Komorów (fan expansion for Ticket to Ride)",
+        "gameId": 127364
+      },
+      {
+        "name": "Lietuva (fan expansion for Ticket to Ride)",
+        "gameId": 134118
+      },
+      {
+        "name": "London Underground (fan expansion for Ticket to Ride)",
+        "gameId": 140727
+      },
+      {
+        "name": "Norrköping, Linköping (fan expansion for Ticket to Ride)",
+        "gameId": 339602
+      },
+      {
+        "name": "North-Africa (fan expansion for Ticket to Ride)",
+        "gameId": 130421
+      },
+      {
+        "name": "Östergötland in the 1930's (fan expansion for Ticket to Ride)",
+        "gameId": 134079
+      },
+      {
+        "name": "Österreich Karte: Zug um Zug (fan expansion for Ticket to Ride)",
+        "gameId": 130397
+      },
+      {
+        "name": "Portugal (fan expansion for Ticket to Ride)",
+        "gameId": 130423
+      },
+      {
+        "name": "România (fan expansion for Ticket to Ride: Europe)",
+        "gameId": 139110
+      },
+      {
+        "name": "Russian Empire 1912 (fan expansion for Ticket to Ride)",
+        "gameId": 153997
+      },
+      {
+        "name": "Sardinia (fan expansion for Ticket to Ride)",
+        "gameId": 324464
+      },
+      {
+        "name": "Scandinavia (fan expansion for Ticket to Ride)",
+        "gameId": 130422
+      },
+      {
+        "name": "Skåne (fan expansion for Ticket to Ride)",
+        "gameId": 345789
+      },
+      {
+        "name": "South-East Sweden 1925 (fan expansion for Ticket to Ride)",
+        "gameId": 159347
+      },
+      {
+        "name": "Sweden (fan expansion for Ticket to Ride)",
+        "gameId": 130182
+      },
+      {
+        "name": "Tåg till Rydsgård (fan expansion for Ticket to Ride)",
+        "gameId": 360563
+      },
+      {
+        "name": "Ticket to Finland (fan expansion for Ticket to Ride)",
+        "gameId": 130398
+      },
+      {
+        "name": "Ticket to Ride Europe: New destination tickets (fan expansion for Ticket to Ride)",
+        "gameId": 130424
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 1 – Team Asia & Legendary Asia",
+        "gameId": 106637
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 2 – India & Switzerland",
+        "gameId": 106645
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 3 – The Heart of Africa",
+        "gameId": 131188
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 4 – Nederland",
+        "gameId": 147938
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 5 – United Kingdom & Pennsylvania",
+        "gameId": 182078
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 6 – France & Old West",
+        "gameId": 233891
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 6½ – Poland",
+        "gameId": 283595
+      },
+      {
+        "name": "Ticket to Ride Map Collection: Volume 7 – Japan & Italy",
+        "gameId": 288679
+      },
+      {
+        "name": "Ticket to Ride: Alvin & Dexter",
+        "gameId": 89848
+      },
+      {
+        "name": "Ticket to Ride: Europa 1912",
+        "gameId": 53383
+      },
+      {
+        "name": "Ticket to Ride: Europe – London/København",
+        "gameId": 243684
+      },
+      {
+        "name": "Ticket To Ride: Italia – Commemorazione Per il Centenario del Milite Ignoto 1921 - 2021",
+        "gameId": 360549
+      },
+      {
+        "name": "Ticket to Ride: Orient Express",
+        "gameId": 185306
+      },
+      {
+        "name": "Ticket to Ride: Stay at Home",
+        "gameId": 310711
+      },
+      {
+        "name": "Ticket to Ride: Switzerland",
+        "gameId": 30746
+      },
+      {
+        "name": "Ticket to Ride: The Dice Expansion",
+        "gameId": 38454
+      },
+      {
+        "name": "Triveneto (fan expansion for Ticket to Ride)",
+        "gameId": 347217
+      },
+      {
+        "name": "UK (fan expansion for Ticket to Ride)",
+        "gameId": 119897
+      },
+      {
+        "name": "UK (fan expansion for Ticket to Ride)",
+        "gameId": 130481
+      },
+      {
+        "name": "UK Cynical Edition (fan expansion for Ticket to Ride)",
+        "gameId": 130482
+      },
+      {
+        "name": "UK version 2.0 (fan expansion for Ticket to Ride)",
+        "gameId": 137427
+      },
+      {
+        "name": "Ukraine (fan expansion for Ticket to Ride)",
+        "gameId": 142110
+      },
+      {
+        "name": "USSR (fan expansion for Ticket to Ride)",
+        "gameId": 115070
+      }
+    ]
+  },
+  {
+    "gameId": 131835,
+    "name": "Boss Monster: The Dungeon Building Card Game",
+    "description": "Inspired by a love of classic video games, Boss Monster: The Dungeon Building Card Game pits 2-4 players in a competition to build the ultimate side-scrolling dungeon. Players compete to lure and destroy hapless adventurers, racing to outbid one another to see who can build the most enticing, treasure-filled dungeon. The goal of Boss Monster is to be the first Boss to amass ten Souls, which are gained when a Hero is lured and defeated &mdash; but a player can lose if his Boss takes five Wounds from Heroes who survive his dungeon.&#10;&#10;Playing Boss Monster requires you to juggle two competing priorities: the need to lure Heroes at a faster rate than your opponents, and the need to kill those Heroes before they reach your Boss. Players can build one room per turn, each with its own damage and treasure value. More attractive rooms tend to deal less damage, so a Boss who is too greedy can become inundated with deadly Heroes.&#10;&#10;Players interact with each other by building rooms and playing Spells. Because different Heroes seek different treasure types, and rooms are built simultaneously (played face down, then revealed), this means that every &quot;build phase&quot; is a bidding war. Spells are instant-speed effects that can give players advantages or disrupt opponents.&#10;&#10;As a standalone card game with 155 cards, Boss Monster contains everything that 2-4 players need to play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/VBwaHyx-NWL3VLcCWKRA0w__original/img/izAmJ81QELl5DoK3y2bzJw55lhA=/0x0/filters:format(jpeg)/pic1732644.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VBwaHyx-NWL3VLcCWKRA0w__thumb/img/wisLXxKXbo5-Ci-ZjEj8ryyoN2g=/fit-in/200x150/filters:strip_icc()/pic1732644.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 30,
+    "mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2013,
+    "bggRating": 6.09996,
+    "averageRating": 6.27898,
+    "rank": 2227,
+    "designers": [
+      "Johnny O'Neal",
+      "Chris O'Neal",
+      "Christopher O'Neal"
+    ],
+    "publishers": [
+      "Brotherwise Games",
+      "Edge Entertainment",
+      "Fever Games",
+      "GaGa Games",
+      "Muduko",
+      "Pegasus Spiele",
+      "Redbox Editora (Redbox)",
+      "Trefl Joker Line"
+    ],
+    "artists": [
+      "Beau Buckley",
+      "Francisco Coda",
+      "Katrina Guillermo",
+      "Kyle Merritt",
+      "David Nyari",
+      "Alexander Olsen",
+      "Andres Sanabria"
+    ],
+    "complexityRating": "1.85 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Boss Monster: Bast Promo Card",
+        "gameId": 158845
+      },
+      {
+        "name": "Boss Monster: Bastas Promo Card",
+        "gameId": 158933
+      },
+      {
+        "name": "Boss Monster: Bom-Boy Factory Promo Card",
+        "gameId": 164723
+      },
+      {
+        "name": "Boss Monster: Collector Box",
+        "gameId": 194669
+      },
+      {
+        "name": "Boss Monster: Crash Landing",
+        "gameId": 202831
+      },
+      {
+        "name": "Boss Monster: Creator Pack",
+        "gameId": 133778
+      },
+      {
+        "name": "Boss Monster: Dragon Prince Hero Pack",
+        "gameId": 341273
+      },
+      {
+        "name": "Boss Monster: Epic Multi Heroes",
+        "gameId": 133780
+      },
+      {
+        "name": "Boss Monster: Final Form! Promo Card",
+        "gameId": 206997
+      },
+      {
+        "name": "Boss Monster: Game Night #2 Season One Event Kit",
+        "gameId": 263340
+      },
+      {
+        "name": "Boss Monster: Get Over Here! Promo Card",
+        "gameId": 228178
+      },
+      {
+        "name": "Boss Monster: Hidden Secrets",
+        "gameId": 187141
+      },
+      {
+        "name": "Boss Monster: Implements of Destruction",
+        "gameId": 225319
+      },
+      {
+        "name": "Boss Monster: Killa, Man Eating Gorilla Promo",
+        "gameId": 164746
+      },
+      {
+        "name": "Boss Monster: Kingkiller Hero Pack",
+        "gameId": 254559
+      },
+      {
+        "name": "Boss Monster: Klonos Promo Card",
+        "gameId": 206829
+      },
+      {
+        "name": "Boss Monster: Malakill Promo Card",
+        "gameId": 230511
+      },
+      {
+        "name": "Boss Monster: Mirrax Promo Card",
+        "gameId": 181768
+      },
+      {
+        "name": "Boss Monster: Overboss Bonus Pack Promo Cards",
+        "gameId": 314324
+      },
+      {
+        "name": "Boss Monster: Paper & Pixels",
+        "gameId": 164095
+      },
+      {
+        "name": "Boss Monster: Portable Power Pack",
+        "gameId": 363063
+      },
+      {
+        "name": "Boss Monster: Power-Up Pack",
+        "gameId": 133777
+      },
+      {
+        "name": "Boss Monster: Quothe Promo Card",
+        "gameId": 164719
+      },
+      {
+        "name": "Boss Monster: Reactor Core",
+        "gameId": 212379
+      },
+      {
+        "name": "Boss Monster: Santa Epic Hero Promo",
+        "gameId": 310149
+      },
+      {
+        "name": "Boss Monster: The Golden Dragon",
+        "gameId": 133775
+      },
+      {
+        "name": "Boss Monster: The Lost Levels",
+        "gameId": 223370
+      },
+      {
+        "name": "Boss Monster: Tools of Hero-Kind",
+        "gameId": 133772
+      },
+      {
+        "name": "Boss Monster: Totale Zerstörung!",
+        "gameId": 235837
+      },
+      {
+        "name": "Boss Monster: Vault of Villains",
+        "gameId": 310974
+      },
+      {
+        "name": "Overboss: A Boss Monster Adventure – Limited Edition Bonus Pack",
+        "gameId": 313459
+      },
+      {
+        "name": "Super Power",
+        "gameId": 293240
+      }
+    ]
+  },
+  {
+    "gameId": 233867,
+    "name": "Welcome To...",
+    "description": "As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.&#10;&#10;Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in Welcome To...!&#10;&#10;Because of the communal actions, game play is simultaneous and thus supports large groups of players. With many varying strategies and completely randomized action sets, no two games will feel the same!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__original/img/pb6XFQZFUNOr6OPysOHB3usVDFk=/0x0/filters:format(jpeg)/pic3761012.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__thumb/img/e3bCyIvM1IOGFYnKGj2jIn5mbKY=/fit-in/200x150/filters:strip_icc()/pic3761012.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 100,
+    "playingTime": 25,
+    "mechanics": [
+      "Bingo",
+      "Contracts",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Solo / Solitaire Game"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2018,
+    "bggRating": 7.41141,
+    "averageRating": 7.57585,
+    "rank": 144,
+    "designers": [
+      "Benoit Turpin"
+    ],
+    "publishers": [
+      "Blue Cocker Games",
+      "Broadway Toys LTD",
+      "Deep Water Games",
+      "Dude Games",
+      "Engames",
+      "Fever Games",
+      "GateOnGames",
+      "Gém Klub Kft.",
+      "Jumping Turtle Games",
+      "Kaissa Chess & Games",
+      "Lautapelit.fi",
+      "Lifestyle Boardgames Ltd",
+      "Ludofy Creative",
+      "Pegasus Spiele",
+      "Rebel Sp. z o.o.",
+      "REXhry",
+      "SD Games",
+      "sternenschimmermeer"
+    ],
+    "artists": [
+      "Anne Heidsieck"
+    ],
+    "complexityRating": "1.83 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Welcome to La Petite Mort",
+        "gameId": 319605
+      },
+      {
+        "name": "Welcome To...: Doomsday Thematic Neighborhood",
+        "gameId": 265375
+      },
+      {
+        "name": "Welcome To...: Dry Erase Expansions",
+        "gameId": 342515
+      },
+      {
+        "name": "Welcome To...: Easter Egg Hunt & Doomsday Thematic Neighborhoods",
+        "gameId": 271874
+      },
+      {
+        "name": "Welcome To...: Halloween & Christmas Lights Thematic Neighborhoods",
+        "gameId": 283991
+      },
+      {
+        "name": "Welcome To...: Halloween Thematic Neighborhood",
+        "gameId": 265377
+      },
+      {
+        "name": "Welcome To...: Ice Cream Truck & Outbreak Thematic Neighborhoods",
+        "gameId": 272257
+      },
+      {
+        "name": "Welcome To...: Outbreak Thematic Neighborhood",
+        "gameId": 265376
+      },
+      {
+        "name": "Welcome To...: Quack",
+        "gameId": 309432
+      },
+      {
+        "name": "Welcome To...: Scoring Pad & Goodies",
+        "gameId": 253324
+      },
+      {
+        "name": "Welcome To...: Solo Mode",
+        "gameId": 276944
+      },
+      {
+        "name": "Welcome To...: Spring Thematic Neighborhood",
+        "gameId": 278207
+      },
+      {
+        "name": "Welcome To...: Summer Thematic Neighborhood",
+        "gameId": 278208
+      },
+      {
+        "name": "Welcome To...: Winter Wonderland Thematic Neighborhood",
+        "gameId": 265374
+      }
+    ]
+  },
+  {
+    "gameId": 148228,
+    "name": "Splendor",
+    "description": "Splendor is a game of chip-collecting and card development. Players are merchants of the Renaissance trying to buy gem mines, means of transportation, shops&mdash;all in order to acquire the most prestige points. If you're wealthy enough, you might even receive a visit from a noble at some point, which of course will further increase your prestige.&#10;&#10;On your turn, you may (1) collect chips (gems), or (2) buy and build a card, or (3) reserve one card. If you collect chips, you take either three different kinds of chips or two chips of the same kind. If you buy a card, you pay its price in chips and add it to your playing area. To reserve a card&mdash;in order to make sure you get it, or, why not, your opponents don't get it&mdash;you place it in front of you face down for later building; this costs you a round, but you also get gold in the form of a joker chip, which you can use as any gem.&#10;&#10;All of the cards you buy increase your wealth as they give you a permanent gem bonus for later buys; some of the cards also give you prestige points. In order to win the game, you must reach 15 prestige points before your opponents do.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__original/img/Y2tUGY2nPTGd_epJYKQXPkQD8AM=/0x0/filters:format(jpeg)/pic1904079.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__thumb/img/D4hkkHfOgu22PwgJomjplWAveuo=/fit-in/200x150/filters:strip_icc()/pic1904079.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 30,
+    "mechanics": [
+      "Contracts",
+      "Open Drafting",
+      "Race",
+      "Set Collection"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2014,
+    "bggRating": 7.31291,
+    "averageRating": 7.43175,
+    "rank": 194,
+    "designers": [
+      "Marc André"
+    ],
+    "publishers": [
+      "Space Cowboys",
+      "Asmodee",
+      "Asmodee China",
+      "Asterion Press",
+      "Baborka Games",
+      "Board Game VN",
+      "Boardgame Space",
+      "Broadway Toys LTD",
+      "CoolPlay",
+      "Days of Wonder",
+      "Filosofia Éditions",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "GoKids 玩樂小子",
+      "HaKubia",
+      "Hobby Japan",
+      "JD Éditions",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Lex Games",
+      "Lifestyle Boardgames Ltd",
+      "Morapiaf",
+      "NeoTroy Games",
+      "Rebel Sp. z o.o.",
+      "Siam Board Games",
+      "Z-Man Games",
+      "Бельвіль"
+    ],
+    "artists": [
+      "Pascal Quidault",
+      "Abbas Amirabadi",
+      "Mahmoud Arasteh Nasab"
+    ],
+    "complexityRating": "1.80 ",
+    "bestNumPlayers": 3,
+    "expansions": [
+      {
+        "name": "Brettspiel Adventskalender 2015",
+        "gameId": 178656
+      },
+      {
+        "name": "Brettspiel Adventskalender 2017",
+        "gameId": 231506
+      },
+      {
+        "name": "Splendor: 2019 Promo – Shen Wansan and Zhou Ying",
+        "gameId": 301333
+      },
+      {
+        "name": "Splendor: Cities of Splendor",
+        "gameId": 220653
+      },
+      {
+        "name": "Splendor: Cities of Splendor Promotional Tile",
+        "gameId": 233847
+      },
+      {
+        "name": "Splendor: Diane de Poitiers Promo Noble",
+        "gameId": 279798
+      },
+      {
+        "name": "Splendor: Dice Con 2019 Promo cards – Zhang Qian and Xiang Fei",
+        "gameId": 289795
+      },
+      {
+        "name": "Splendor: Dice Tower Promo Noble",
+        "gameId": 234005
+      },
+      {
+        "name": "Splendor: Guillaume Budé Promo Noble",
+        "gameId": 234162
+      },
+      {
+        "name": "Splendor: Jacques Cartier Promo Noble",
+        "gameId": 256783
+      },
+      {
+        "name": "Splendor: Nobles and Cities Promo",
+        "gameId": 369554
+      },
+      {
+        "name": "Splendor: Nobles Promo Tiles",
+        "gameId": 178742
+      },
+      {
+        "name": "Splendor: Nobles Promo Tiles",
+        "gameId": 280452
+      },
+      {
+        "name": "Splendor: Special Noble Patron Promo",
+        "gameId": 190036
+      },
+      {
+        "name": "Splendor: Thomas More Promo Noble",
+        "gameId": 261074
+      }
+    ]
+  },
+  {
+    "gameId": 230802,
+    "name": "Azul",
+    "description": "Introduced by the Moors, azuleijos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.&#10;&#10;In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__original/img/AkbtYVc6xXJF3c9EUrakklcclKw=/0x0/filters:format(png)/pic6973671.png",
+    "thumbnail": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 45,
+    "mechanics": [
+      "End Game Bonuses",
+      "Open Drafting",
+      "Pattern Building",
+      "Tile Placement",
+      "Turn Order: Claim Action"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2017,
+    "bggRating": 7.66134,
+    "averageRating": 7.7737,
+    "rank": 67,
+    "designers": [
+      "Michael Kiesling"
+    ],
+    "publishers": [
+      "Next Move Games",
+      "Plan B Games",
+      "Asmodee",
+      "Broadway Toys LTD",
+      "Divercentro",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "Ghenos Games",
+      "Hobby Japan",
+      "KADABRA",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lacerta",
+      "MINDOK",
+      "Orangutan Games",
+      "Pegasus Spiele",
+      "Rebel Sp. z o.o.",
+      "SuperHeated Neurons",
+      "Tower Tactic Games",
+      "TWOPLUS Games",
+      "Zvezda",
+      "Бельвіль"
+    ],
+    "artists": [
+      "Philippe Guérin",
+      "Chris Quilliams"
+    ],
+    "complexityRating": "1.76 ",
+    "bestNumPlayers": 2,
+    "expansions": [
+      {
+        "name": "Azul: Crystal Mosaic",
+        "gameId": 294345
+      },
+      {
+        "name": "Azul: Joker Tiles",
+        "gameId": 235739
+      },
+      {
+        "name": "Azul: Special Factories Promo",
+        "gameId": 264017
+      },
+      {
+        "name": "Deutscher Spielepreis 2018 Goodie Box",
+        "gameId": 257590
+      },
+      {
+        "name": "Super Power",
+        "gameId": 293240
+      }
+    ]
+  },
+  {
+    "gameId": 123540,
+    "name": "Tokaido",
+    "description": "In Tokaido, each player is a traveler crossing the &quot;East sea road&quot;, one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler &ndash; which means that you'll have to be the one who discovered the most interesting and varied things.&#10;&#10;The potential action spaces in Tokaido are laid out on a linear track, with players advancing down this track to take actions. The player who is currently last on the track takes a turn by advancing forward on the track to their desired action and taking that action, so players must choose whether to advance slowly in order to get more turns, or to travel more rapidly to beat other players to their desired action spaces.&#10;&#10;The action spaces allow a variety of actions that will score in different, but roughly equal, ways. Some action spaces allow players to collect money, while others offer players a way to spend that money to acquire points.  Other action spaces allow players to engage in various set collections that score points for assembling those sets.  Some action spaces simply award players points for stopping on them, or give the player a randomly determined action from all of the other types.&#10;&#10;All of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/-sUA2HQNFHBxOdzHE6Ywlg__original/img/501lMzjLD_EuCxtV24y0AooDbAI=/0x0/filters:format(png)/pic3747956.png",
+    "thumbnail": "https://cf.geekdo-images.com/-sUA2HQNFHBxOdzHE6Ywlg__thumb/img/OW3Jp2snfQM6Aq_nwOrKnHpF2hM=/fit-in/200x150/filters:strip_icc()/pic3747956.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playingTime": 45,
+    "mechanics": [
+      "End Game Bonuses",
+      "Set Collection",
+      "Track Movement",
+      "Turn Order: Time Track",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2012,
+    "bggRating": 6.79227,
+    "averageRating": 6.95553,
+    "rank": 642,
+    "designers": [
+      "Antoine Bauza"
+    ],
+    "publishers": [
+      "Funforge",
+      "Asterion Press",
+      "Bergsala Enigma (Enigma)",
+      "Devir",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "hobbity.eu",
+      "Hobby Japan",
+      "Hobby World",
+      "Jolly Thinkers",
+      "MINDOK",
+      "Passport Game Studios",
+      "Pegasus Spiele",
+      "Pendragon Game Studio",
+      "Swan Panasia Co., Ltd.",
+      "Zhiyanjia"
+    ],
+    "artists": [
+      "Xavier Gueniffey Durin"
+    ],
+    "complexityRating": "1.75 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 144384,
+        "name": "Tokaido: Crossroads",
+        "image": "https://cf.geekdo-images.com/W7oc-HFr5phA8-IeP9xXVg__original/img/CP1gsN3dMTcuakYbB8q0mgV45lk=/0x0/filters:format(png)/pic1717784.png",
+        "thumbnail": "https://cf.geekdo-images.com/W7oc-HFr5phA8-IeP9xXVg__thumb/img/LVP_9sVnbw3XfPlo8UAcDW1AOXk=/fit-in/200x150/filters:strip_icc()/pic1717784.png",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playingTime": 45,
+        "isExpansion": true,
+        "yearPublished": 2013,
+        "bggRating": 0,
+        "averageRating": 7.49149,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "1.89 "
+      },
+      {
+        "gameId": 171503,
+        "name": "Tokaido: Matsuri",
+        "image": "https://cf.geekdo-images.com/EUeEPThizRQZ-TGw88-jRQ__original/img/-HhmEf73WfEZ-MNLQVFVtIlB7IE=/0x0/filters:format(jpeg)/pic3386125.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/EUeEPThizRQZ-TGw88-jRQ__thumb/img/bjHz1zGU2wA-4HFWoO-L_BfIGi8=/fit-in/200x150/filters:strip_icc()/pic3386125.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playingTime": 45,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 7.39892,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "1.77 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Tokaido: Crossroads",
+        "gameId": 144384
+      },
+      {
+        "name": "Tokaido: Eriku",
+        "gameId": 149772
+      },
+      {
+        "name": "Tokaido: Felicia Promo Card",
+        "gameId": 157816
+      },
+      {
+        "name": "Tokaido: Matsuri",
+        "gameId": 171503
+      },
+      {
+        "name": "Tokaido: The New Encounters",
+        "gameId": 132479
+      }
+    ]
+  },
+  {
+    "gameId": 158600,
+    "name": "Hanamikoji",
+    "description": "Welcome to the most famed Geisha street in the old capital, Hanamikoji. Geishas are elegant and graceful women who are skilled in art, music, dance, and a variety of performances and ceremonies. Greatly respected and adored, Geishas are masters of entertainment.&#10;&#10;In Hanamikoji, two players compete to earn the favor of seven illustrious Geishas by collecting each Geisha&rsquo;s preferred performance item. With careful speculation and a few bold moves, can you outsmart your opponent to win the favor of the most Geishas?&#10;&#10;Jixia Academy features the same gameplay as Hanamikoji, but with different artwork.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/uiVZ7QVfRFQx3EBG8eDU8w__original/img/tLBrF40IDpARzoiUor4wwUvWXgY=/0x0/filters:format(png)/pic6339446.png",
+    "thumbnail": "https://cf.geekdo-images.com/uiVZ7QVfRFQx3EBG8eDU8w__thumb/img/SUy42NMiK5gx-kLqmV47drIxEU0=/fit-in/200x150/filters:strip_icc()/pic6339446.png",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "playingTime": 15,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Force Commitment",
+      "Hand Management",
+      "I Cut, You Choose",
+      "Tug of War"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2013,
+    "bggRating": 7.26924,
+    "averageRating": 7.51665,
+    "rank": 222,
+    "designers": [
+      "Kota Nakayama (中山 宏太)"
+    ],
+    "publishers": [
+      "EmperorS4",
+      "Takamagahara",
+      "2Tomatoes Games",
+      "COLON ARC",
+      "Deep Water Games",
+      "Diversion (دایورژن)",
+      "Geekach Games",
+      "IELLO",
+      "KOSMOS",
+      "Ludicus",
+      "Ludopolis",
+      "MS Edizioni",
+      "Nasza Księgarnia",
+      "PopcornEdu",
+      "Quick Simple Fun Games",
+      "Reflexshop",
+      "White Goblin Games",
+      "Zvezda"
+    ],
+    "artists": [
+      "Maisherly",
+      "Mashiro Misaki"
+    ],
+    "complexityRating": "1.70 ",
+    "bestNumPlayers": 2,
+    "expansions": [
+      {
+        "name": "Hanamikoji: JP promotion card 2021",
+        "gameId": 335223
+      },
+      {
+        "name": "Hanamikoji: Kickstarter Goodies 2021",
+        "gameId": 350621
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #1",
+        "gameId": 323921
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #2",
+        "gameId": 347151
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #3",
+        "gameId": 347152
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #4",
+        "gameId": 347153
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #5",
+        "gameId": 347154
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #6",
+        "gameId": 347155
+      },
+      {
+        "name": "Hanamikoji: Mini Expansion #7",
+        "gameId": 347156
+      }
+    ]
+  },
+  {
+    "gameId": 1406,
+    "name": "Monopoly",
+    "description": "Theme&#10;Players take the part of land owners, attempting to buy and then develop their land. Income is gained by other players visiting their properties and money is spent when they visit properties belonging to other players. When times get tough, players may have to mortgage their properties to raise cash for fines, taxes and other misfortunes.&#10;&#10;Gameplay&#10;On his turn, a player rolls two dice and moves that number of spaces around the board. If the player lands on an as-yet-unowned property, he has the opportunity to buy it and add it to his portfolio or allow the bank to auction it to the highest bidder. If a player owns all the spaces within a color group, he may then build houses and hotels on these spaces, generating even more income from opponents who land there. If he lands on a property owned by another player, he must pay that player rent according to the value of the land and any buildings on it. There are other places on the board which can not be bought, but instead require the player to draw a card and perform the action on the card, pay taxes, collect income, or even go to jail.&#10;&#10;Goal&#10;The goal of the game is to be the last player remaining with any money.&#10;&#10;Cultural impact on rules&#10;Monopoly is unusual in that the game has official, printed rules, but most players learn how to play from others, never actually learning the correct way to play. This has led to the canonization of a number of house rules that make the game more palatable to children (and sore losers) but harm the gameplay by preventing players from going bankrupt or slowing down the rate of property acquisition. One common house rule has players put any money paid to the bank in the center of the board, which jackpot a player may earn by landing on Free Parking. This prevents the game from removing money from play, and since players collect $200 each time they pass Go, this results in ever-increasing bankrolls and players surviving rents that should have bankrupted them. Another house rule allows players to take &quot;loans&quot; from the bank instead of going bankrupt, which means the game will never end. Some house rules arise out of ignorance rather than attempts to improve the game. For instance, many players don't know that properties landed on but left unbought go up for auction, and even some that know to auction don't know that the bidding starts at $1, meaning a player may pay well below the listed price for an auctioned property.&#10;&#10;Background&#10;In the USA in 1933, Charles Darrow devised Monopoly based on an earlier game by Elizabeth J. Magie. The patent was filed 31st August 1935 while the game was on sale in America. Based on an earlier game, The Landlord's Game, it was at first rejected by Parker Bros., as being too complicated to be a success. How wrong could they be! It came to the UK in 1936, made under licence by Waddingtons. Darrow died in 1967 having realised he had developed one of the most successful board games of all times. It was awarded as Game of the Century by the TRA (Toy Retailers Association).&#10;&#10;Monopoly was patented in 1935 by Charles Darrow and released by Parker Brothers. The game was actually one of a number of variants in existence at the time, all of which date back to an earlier, 1904 game by Elizabeth J. Magie called The Landlord's Game. Magie was a proponent of the Single Tax put forth by famous author Henry George.  The game was designed to show the evils of earning money from renting land (as it leads to the destitution of all but one player) and the virtues of the proposed Single Tax - players could choose to play under regular rules or alternate &quot;Single Tax&quot; rules.&#10;&#10;The game didn't really go anywhere and Magie lost interest in it. Variations of the game evolved, however, and homemade versions traveled up and down the Atlantic coast and even as far west as Michigan and Texas, being developed all along the way. Eventually the game was noticed by Charles Darrow, who introduced it to the world in its current form.&#10;&#10;Re-implements:&#10;&#10;    The Landlord's Game&#10;&#10;&#10;Expanded by:&#10;Official&#10;&#10;    Monopoly Stock Exchange Add-on&#10;    Monopoly Free Parking Mini Game&#10;    Monopoly Get Out of Jail Mini Game&#10;&#10;&#10;Unofficial&#10;&#10;    Super Add-Ons: Monopoly (fan expansion for Monopoly)&#10;    Entrepreneur's Accessory to Monopoly (fan expansion for Monopoly)&#10;    Game Spice: Monopoly Expansion (fan expansion for Monopoly)&#10;    Mafiopoly&#10;    Monopoly: Mob Rule Expansion Deck&#10;    Final Fantasy Monopoly&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__original/img/bA8irydTCNlE38QSzM9EhcUIuNU=/0x0/filters:format(jpeg)/pic5786795.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__thumb/img/ezXcyEsHhS9iRxmuGe8SmiLLXlM=/fit-in/200x150/filters:strip_icc()/pic5786795.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playingTime": 180,
+    "mechanics": [
+      "Auction/Bidding",
+      "Income",
+      "Loans",
+      "Lose a Turn",
+      "Ownership",
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Stock Holding",
+      "Track Movement",
+      "Trading"
+    ],
+    "isExpansion": false,
+    "yearPublished": 1935,
+    "bggRating": 4.29401,
+    "averageRating": 4.36209,
+    "rank": 23472,
+    "designers": [
+      "Charles Darrow",
+      "Elizabeth J. Magie (Phillips)"
+    ],
+    "publishers": [
+      "Åhlén & Åkerlund",
+      "Alga",
+      "Altap",
+      "ASS Altenburger Spielkarten",
+      "Aurimagic",
+      "Barnes & Noble",
+      "Borras Plana S.A.",
+      "Brohm-Parker-Spiele",
+      "Carlit",
+      "Clipper",
+      "Damm / Egmont",
+      "deSka",
+      "Editrice Giochi",
+      "Edwards Dunlop And Company Limited",
+      "Epoch Co., Ltd.",
+      "Estrela",
+      "Franz Schmidt",
+      "Funskool Games",
+      "General Mills",
+      "Hanayama",
+      "Hasbro",
+      "Inspiration tv network",
+      "JinLiLai",
+      "John Sands Pty Ltd",
+      "John Waddington Ltd.",
+      "Kasco Industries",
+      "Klee",
+      "Korea Boardgames Co., Ltd.",
+      "Kuvataide",
+      "Leaping Dog",
+      "Majora",
+      "MB Juegos",
+      "Metrotoy",
+      "MIKA",
+      "Miro Company",
+      "NeoTroy Games",
+      "Nilco S.A.",
+      "Nýja leikfangagerðin",
+      "The Op",
+      "Oy Fenno-Alga Ab",
+      "PanGraf",
+      "Parker Brothers",
+      "Parker Spiele",
+      "Remoundo",
+      "Schmidt Spiele",
+      "Schtelber",
+      "Smeets & Schippers",
+      "Tilsit",
+      "Toltoys",
+      "Tomy",
+      "Tomy Company, Ltd. (Takara Tomy)",
+      "Waddingtons",
+      "Winning Moves Games (USA)",
+      "Winning Solutions (WS Game Company)",
+      "Zontik Games"
+    ],
+    "artists": [
+      "Edison Girard"
+    ],
+    "complexityRating": "1.65 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Bance!",
+        "gameId": 138841
+      },
+      {
+        "name": "Beyond Boardwalk and Park Place (fan expansion for Monopoly)",
+        "gameId": 21659
+      },
+      {
+        "name": "Cardopoly",
+        "gameId": 208031
+      },
+      {
+        "name": "Co-opoly: a \"conversion kit\" for Monopoly",
+        "gameId": 362509
+      },
+      {
+        "name": "Entrepreneur's Accessory to Monopoly (fan expansion for Monopoly)",
+        "gameId": 13102
+      },
+      {
+        "name": "Game Spice: Monopoly Expansion (fan expansion for Monopoly)",
+        "gameId": 3446
+      },
+      {
+        "name": "Improving Games: Monopoly",
+        "gameId": 352250
+      },
+      {
+        "name": "Infla: Defla",
+        "gameId": 96025
+      },
+      {
+        "name": "Mafiopoly",
+        "gameId": 28968
+      },
+      {
+        "name": "Monopoly Stock Exchange Add-on",
+        "gameId": 9466
+      },
+      {
+        "name": "Monopoly: Mob Rule Expansion Deck",
+        "gameId": 37893
+      },
+      {
+        "name": "Socialism: The Game (fan expansion for Monopoly)",
+        "gameId": 200771
+      },
+      {
+        "name": "Super Add-Ons: Monopoly (fan expansion for Monopoly)",
+        "gameId": 16775
+      },
+      {
+        "name": "Variations on a Theme: Supplementary Rules for Monopoly",
+        "gameId": 355657
+      }
+    ]
+  },
+  {
+    "gameId": 131357,
+    "name": "Coup",
+    "description": "You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...&#10;&#10;In Coup, you want to be the last player with influence in the game, with influence being represented by face-down character cards in your playing area.&#10;&#10;Each player starts the game with two coins and two influence &ndash; i.e., two face-down character cards; the fifteen card deck consists of three copies of five different characters, each with a unique set of powers:&#10;&#10;&#10;     Duke: Take three coins from the treasury. Block someone from taking foreign aid.&#10;     Assassin: Pay three coins and try to assassinate another player's character.&#10;     Contessa: Block an assassination attempt against yourself.&#10;     Captain: Take two coins from another player, or block someone from stealing coins from you.&#10;     Ambassador: Draw two character cards from the Court (the deck), choose which (if any) to exchange with your face-down characters, then return two. Block someone from stealing coins from you.&#10;&#10;&#10;On your turn, you can take any of the actions listed above, regardless of which characters you actually have in front of you, or you can take one of three other actions:&#10;&#10;&#10;     Income: Take one coin from the treasury.&#10;     Foreign aid: Take two coins from the treasury.&#10;     Coup: Pay seven coins and launch a coup against an opponent, forcing that player to lose an influence. (If you have ten coins or more, you must take this action.)&#10;&#10;&#10;When you take one of the character actions &ndash; whether actively on your turn, or defensively in response to someone else's action &ndash; that character's action automatically succeeds unless an opponent challenges you. In this case, if you can't (or don't) reveal the appropriate character, you lose an influence, turning one of your characters face-up. Face-up characters cannot be used, and if both of your characters are face-up, you're out of the game.&#10;&#10;If you do have the character in question and choose to reveal it, the opponent loses an influence, then you shuffle that character into the deck and draw a new one, perhaps getting the same character again and perhaps not.&#10;&#10;The last player to still have influence &ndash; that is, a face-down character &ndash; wins the game!&#10;&#10;A new &amp; optional character called the Inquisitor has been added (currently, the only English edition with the Inquisitor included is the Kickstarter Version from Indie Boards &amp; Cards. Copies in stores may not be the Kickstarter versions and may only be the base game). The Inquisitor character cards may be used to replace the Ambassador cards.&#10;&#10;&#10;     Inquisitor: Draw one character card from the Court deck and choose whether or not to exchange it with one of your face-down characters. OR Force an opponent to show you one of their character cards (their choice which). If you wish it, you may then force them to draw a new card from the Court deck. They then shuffle the old card into the Court deck. Block someone from stealing coins from you.&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__original/img/ayAAWBK1rAEumARNmROsOtvqW-4=/0x0/filters:format(jpeg)/pic2016054.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__thumb/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playingTime": 15,
+    "mechanics": [
+      "Hidden Roles",
+      "Memory",
+      "Player Elimination",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2012,
+    "bggRating": 6.85841,
+    "averageRating": 6.99069,
+    "rank": 575,
+    "designers": [
+      "Rikki Tahta"
+    ],
+    "publishers": [
+      "Indie Boards & Cards",
+      "La Mame Games",
+      "(Unknown)",
+      "After 5 Games",
+      "Asmodee",
+      "Broadway Toys LTD",
+      "El Dragón Azul",
+      "FoxGames",
+      "FunBox Jogos",
+      "Heidelberger Spieleverlag",
+      "Igrato",
+      "Kaissa Chess & Games",
+      "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+      "Mandala Jogos",
+      "NeoTroy Games",
+      "New Games Order, LLC",
+      "REXhry",
+      "Siam Board Games",
+      "Zacatrus",
+      "テンデイズゲームズ(TendaysGames)"
+    ],
+    "artists": [
+      "Behnam Balali",
+      "Luis Francisco",
+      "Stephanie Gustafsson",
+      "Andrew Higgins",
+      "Alexandr Kiselev",
+      "Prapach Lapamnuaysap",
+      "Tomasz Larek",
+      "Jarek Nocoń",
+      "Guillermo H. Nuñez",
+      "Weberson Santiago",
+      "Alejo Vigliani",
+      "Uros Vuckovic"
+    ],
+    "complexityRating": "1.42 ",
+    "bestNumPlayers": 5,
+    "expansions": [
+      {
+        "name": "Coup: Bureaucrat Promo Card",
+        "gameId": 374732
+      },
+      {
+        "name": "Coup: Inquisition",
+        "gameId": 186356
+      },
+      {
+        "name": "Coup: Inquisitor Promo",
+        "gameId": 178527
+      },
+      {
+        "name": "Coup: Jester Promo Card",
+        "gameId": 186524
+      },
+      {
+        "name": "Coup: Promo Bufão & Burocrata",
+        "gameId": 374733
+      },
+      {
+        "name": "Coup: Reformation",
+        "gameId": 148931
+      },
+      {
+        "name": "Coup: Socialist",
+        "gameId": 217578
+      },
+      {
+        "name": "Coup: Speculator Promo",
+        "gameId": 186532
+      }
+    ]
+  },
+  {
+    "gameId": 131568,
+    "name": "Codinca",
+    "description": "Deep within the rain forests of the Yucatan, rival teams of treasure hunters have recently discovered the lost city of Codinca. In the center of the once great citadel stands a stone temple. Local legends tell of great treasures that lie buried beneath the temple, but despite many weeks of searching no doorway has been found.&#10;&#10;On the top of the temple stands a square stone altar. A small totem stands in the center of this, surrounded by a pattern of sixteen carved tiles. Examining them closely you discover an intricate series of mechanisms which allow the tiles to switch places and turn over, which reveals that each tile has a stone side and a gold side. Carvings on each side of the pillar indicate that a sequence of four key patterns must be made with the tiles to open the temple. Can you be the first to unlock the secrets of Codinca?&#10;&#10;In Codinca, each player has control of a set of four matching symbol tiles: Air, Water, Earth or Fire. Players take turns attempting to move their tiles into a series of four specific key patterns indicated on the key discs drawn at the beginning of the game; those patterns are a block of four, a line of four, four corners (can be four corners of any nine tiles as well as outside corners) and a diagonal line of four.&#10;&#10;On each turn a player must either switch and flip one of their own tiles with any adjacent tile, or switch one of their tiles with any adjacent tile and switch the same or another of their tiles with any adjacent tiles or flip two tiles, one of which must be one of their own tiles. In addition, players are allocated three Spirit Card that gives them the bonus move choice of Line Push or Rotate Four. This allows players to disguise their planned moves. On the back of the Spirt Card is a Trap Pattern. This can be used to change a set display of tiles from gold to stone and visa versa to match the pattern on the Trap Pattern. Players can match their required patterns in any order, and the first player to match all patterns wins.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/m11wZ62qcE_dr1ArroRAvA__original/img/0yMZdgnJEUGyCTkQHVF-KMTGbxs=/0x0/filters:format(jpeg)/pic2995800.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/m11wZ62qcE_dr1ArroRAvA__thumb/img/vxwLTHfTfZyvj-AKuxs64Uga8FY=/fit-in/200x150/filters:strip_icc()/pic2995800.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 30,
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2012,
+    "bggRating": 5.68068,
+    "averageRating": 6.17348,
+    "rank": 5583,
+    "designers": [
+      "Leonard Boyd",
+      "David Brashaw"
+    ],
+    "publishers": [
+      "Backspindle Games Ltd.",
+      "Ninja Division"
+    ],
+    "artists": [
+      "Leonard Boyd"
+    ],
+    "complexityRating": "1.38 ",
+    "bestNumPlayers": 2
+  },
+  {
+    "gameId": 2381,
+    "name": "Scattergories",
+    "description": "&quot;The Game of Scattergories,&quot; published in 1988 by Milton Bradley, is a great game for any group to play. In the game each player fills out a category list 'with answers that begin with the same letter.' If no other player matches your answers, you score points. The game is played in rounds. After 3 rounds a winner is declared, and a new game can be begun.&#10;&#10;Scattergories is a commercial version of an old parlour game known as Categories or Guggenheim.&#10;&#10;Similar to:&#10;&#10;    Facts in Five&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/eIL4hvMb7ZPgizc7BZOh-g__original/img/ZjWZidMJYVPML2OXLGfvQqR8Hyw=/0x0/filters:format(jpeg)/pic4994410.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eIL4hvMb7ZPgizc7BZOh-g__thumb/img/sx0XxYqv0FtsIp-RoW-5C42sLOc=/fit-in/200x150/filters:strip_icc()/pic4994410.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playingTime": 30,
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil"
+    ],
+    "isExpansion": false,
+    "yearPublished": 1988,
+    "bggRating": 6.03872,
+    "averageRating": 6.23195,
+    "rank": 2491,
+    "designers": [
+      "(Uncredited)"
+    ],
+    "publishers": [
+      "Game Office",
+      "Grow Jogos e Brinquedos",
+      "Hasbro",
+      "MB Giochi",
+      "MB Juegos",
+      "MB Spiele",
+      "Milton Bradley",
+      "Parker Brothers",
+      "Toyster",
+      "Winning Moves Games (USA)"
+    ],
+    "artists": [],
+    "complexityRating": "1.38 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Scattergories Refill #1",
+        "gameId": 10722
+      }
+    ]
+  },
+  {
+    "gameId": 36345,
+    "name": "Monty Python Fluxx",
+    "description": "Monty Python themed version of Fluxx. The random and chaotic nature of the Fluxx engine makes it a perfect vehicle for the crazy world of Monty Python!&#10;&#10;At the start of the game, each player holds three cards and on a turn a player draws one card, then plays one card. By playing cards, you can put new rules into play that change numerous aspects of the game: how many cards to draw or play, how many cards you can hold in hand or keep on the table in front of you, and (most importantly) how to win the game.&#10;&#10;The card mix focuses on Holy Grail with other references added from Flying Circus and other Python material. For example, one win condition card might require you have to have the Knights who Say Ni and a Shrubbery card face up in front of you.&#10;&#10;Part of the Fluxx series.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/5uikyTtFuRIsHWK6Gz0ekQ__original/img/rrnt8TMbUNwkoospFD2mY0Pj_CA=/0x0/filters:format(jpeg)/pic385725.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5uikyTtFuRIsHWK6Gz0ekQ__thumb/img/psfzxL2YIT5mFi8UDb_K6sIImGI=/fit-in/200x150/filters:strip_icc()/pic385725.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playingTime": 40,
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Singing"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2008,
+    "bggRating": 5.85433,
+    "averageRating": 6.07372,
+    "rank": 3569,
+    "designers": [
+      "Andrew Looney"
+    ],
+    "publishers": [
+      "Looney Labs",
+      "Pegasus Spiele"
+    ],
+    "artists": [
+      "Todd Hamilton"
+    ],
+    "complexityRating": "1.35 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Fluxx Dice",
+        "gameId": 177946
+      },
+      {
+        "name": "Fluxx Promo Cards",
+        "gameId": 44489
+      },
+      {
+        "name": "Fluxx: BoardGameGeek Expansion",
+        "gameId": 92206
+      },
+      {
+        "name": "Monty Python Fluxx: Black Knight Expansion",
+        "gameId": 255018
+      },
+      {
+        "name": "Monty Python Fluxx: Castle Expansion",
+        "gameId": 40887
+      }
+    ]
+  },
+  {
+    "gameId": 12073,
+    "name": "Aggieopoly",
+    "description": "In this variation to Monopoly, players move around a board based on Texas A&amp;M University, one of the most spirited campuses in the United States. Properties include Sbisa Dining Hall, Kyle Field, and the infamous Dixie Chicken. Cards allow you to go to Fish Camp, attend the A&amp;M /Univ. of Texas football game, and buy your own Aggie Ring.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/_1b30TrIz85WuVH2t5NFdw__original/img/AHRSuCmEaCkPfYPFvjE9bxkcmX0=/0x0/filters:format(jpeg)/pic192753.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_1b30TrIz85WuVH2t5NFdw__thumb/img/dQJzh6mavY4RDdDI5eySnfpLlTc=/fit-in/200x150/filters:strip_icc()/pic192753.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playingTime": 45,
+    "mechanics": [
+      "Auction/Bidding",
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Trading"
+    ],
+    "isExpansion": false,
+    "yearPublished": 1984,
+    "bggRating": 0,
+    "averageRating": 3.98333,
+    "rank": -1,
+    "designers": [
+      "(Uncredited)"
+    ],
+    "publishers": [
+      "Late for the Sky Production Company"
+    ],
+    "artists": [],
+    "complexityRating": "1.33 "
+  },
+  {
+    "gameId": 192291,
+    "name": "Sushi Go Party!",
+    "description": "Sushi Go Party! expands Sushi Go! with a party platter of mega maki, super sashimi, and endless edamame. You still earn points by picking winning sushi combos, but now you can customize each game by choosing &agrave; la carte from a menu of more than twenty delectable dishes. What's more, up to eight players can join in on the sushi-feast. Let the good times roll!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__original/img/WQcFmlhYBMIp8f6gNNVhnnue1w4=/0x0/filters:format(jpeg)/pic5885689.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__thumb/img/_mXR9Tlo0f-i80h6pfhDEOBgvpY=/fit-in/200x150/filters:strip_icc()/pic5885689.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playingTime": 20,
+    "mechanics": [
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Hand Management",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Variable Set-up"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2016,
+    "bggRating": 7.26556,
+    "averageRating": 7.42462,
+    "rank": 227,
+    "designers": [
+      "Phil Walker-Harding"
+    ],
+    "publishers": [
+      "Gamewright",
+      "AURUM, Inc.",
+      "Cocktail Games",
+      "Devir",
+      "Hemz Universal Games Co. Ltd.",
+      "Rebel Sp. z o.o.",
+      "Reflexshop",
+      "uplay.it edizioni",
+      "White Goblin Games",
+      "Zoch Verlag"
+    ],
+    "artists": [
+      "Nan Rangsima"
+    ],
+    "complexityRating": "1.31 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Sushi Go Party!: Inari Promo",
+        "gameId": 317274
+      },
+      {
+        "name": "Sushi Go Party!: Pickled Ginger Promo",
+        "gameId": 317275
+      },
+      {
+        "name": "Sushi Go Party!: Sake Promo",
+        "gameId": 251250
+      },
+      {
+        "name": "Sushi Go Party!: Sukeroku Promo",
+        "gameId": 250934
+      }
+    ]
+  },
+  {
+    "gameId": 178900,
+    "name": "Codenames",
+    "description": "Codenames is an easy party game to solve puzzles. &#10;The game is divided into red and blue, each side has a team leader, the team leader's goal is to lead their team to the final victory. &#10;At the beginning of the game, there will be 25 cards on the table with different words. Each card has a corresponding position, representing different colors. &#10;Only the team leader can see the color of the card. The team leader should prompt according to the words, let his team members find out the cards of their corresponding colors, and find out all the cards of their own colors to win.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__original/img/gcX_EfjsRpB5fI4Ug4XV73G4jGI=/0x0/filters:format(jpeg)/pic2582929.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playingTime": 15,
+    "mechanics": [
+      "Communication Limits",
+      "Memory",
+      "Push Your Luck",
+      "Team-Based Game"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2015,
+    "bggRating": 7.48236,
+    "averageRating": 7.57397,
+    "rank": 116,
+    "designers": [
+      "Vlaada Chvátil"
+    ],
+    "publishers": [
+      "Czech Games Edition",
+      "Asmodee",
+      "Asmodee Canada",
+      "Bergsala Enigma (Enigma)",
+      "Boardgame Space",
+      "Brain Games",
+      "Broadway Toys LTD",
+      "Cranio Creations",
+      "Cuaca Cerah Games",
+      "Devir",
+      "DiceTree Games",
+      "Fantasmagoria",
+      "Feelindigo",
+      "GaGa Games",
+      "Gém Klub Kft.",
+      "Golden Egg Games",
+      "Heidelberger Spieleverlag",
+      "Hobby Japan",
+      "IELLO",
+      "Kaissa Chess & Games",
+      "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+      "Lex Games",
+      "MINDOK",
+      "MIPL",
+      "More Fun Co., Ltd.",
+      "Nordic Games GmbH",
+      "One Moment Games",
+      "Ponva d.o.o.",
+      "Pridemage Games",
+      "Rebel Sp. z o.o.",
+      "SuperHeated Neurons",
+      "TWOPLUS Games",
+      "White Goblin Games"
+    ],
+    "artists": [
+      "Stéphane Gantiez",
+      "Tomáš Kučerovský",
+      "Filip Murmak"
+    ],
+    "complexityRating": "1.29 ",
+    "bestNumPlayers": 6,
+    "expansions": [
+      {
+        "name": "Brettspiel Adventskalender 2018",
+        "gameId": 256951
+      },
+      {
+        "name": "Codenames: Authors & Games",
+        "gameId": 213294
+      },
+      {
+        "name": "Codenames: Bonus Pack – Board Gaming (English)",
+        "gameId": 224198
+      },
+      {
+        "name": "Codenames: Bonus Pack – Board Gaming (German)",
+        "gameId": 221824
+      },
+      {
+        "name": "Codenames: Bonus Pack – CGE Games",
+        "gameId": 215603
+      },
+      {
+        "name": "Codenames: Bonus Pack – Literatur",
+        "gameId": 295466
+      },
+      {
+        "name": "Codenames: Bonus Pack – Through the Ages",
+        "gameId": 293928
+      },
+      {
+        "name": "Codenames: Bonus Pack – Webhallen",
+        "gameId": 367802
+      },
+      {
+        "name": "Codenames: Bonus Pack – Weihnachten",
+        "gameId": 227990
+      },
+      {
+        "name": "Codenames: Bonuskaarten 2016",
+        "gameId": 225039
+      },
+      {
+        "name": "Codenames: Bonuskaarten 2018",
+        "gameId": 262581
+      },
+      {
+        "name": "Codenames: Bonuskaarten 2019",
+        "gameId": 319890
+      },
+      {
+        "name": "Codenames: Bonuskaarten 2020",
+        "gameId": 319891
+      },
+      {
+        "name": "Codenames: Cartes promo – Personnalités",
+        "gameId": 234198
+      },
+      {
+        "name": "Codenames: Cartes promo – Univers Geek",
+        "gameId": 264856
+      },
+      {
+        "name": "Código Secreto: Expansão promocional Brasil",
+        "gameId": 363088
+      },
+      {
+        "name": "Código Secreto: Expansão promocional Portugal",
+        "gameId": 363092
+      },
+      {
+        "name": "Código Secreto: Expansión promocional Américas",
+        "gameId": 350213
+      },
+      {
+        "name": "Código secreto: Expansión promocional Andalucía",
+        "gameId": 292037
+      },
+      {
+        "name": "Código Secreto: Expansión promocional Argentina",
+        "gameId": 342140
+      },
+      {
+        "name": "Código Secreto: Expansión promocional Chile",
+        "gameId": 318899
+      },
+      {
+        "name": "Código Secreto: Expansión Promocional México",
+        "gameId": 316876
+      },
+      {
+        "name": "Deutscher Spielepreis 2016 Goodie Box",
+        "gameId": 205611
+      },
+      {
+        "name": "Fedőnevek: Magyar bónusz csomag",
+        "gameId": 240994
+      },
+      {
+        "name": "Nome in Codice: Carte Bonus Comics and Games 2016",
+        "gameId": 353668
+      },
+      {
+        "name": "Nome in Codice: Carte Bonus da Torneo",
+        "gameId": 310511
+      },
+      {
+        "name": "Tajniacy: Agenci na kwarantannie",
+        "gameId": 347651
+      },
+      {
+        "name": "Tajniacy: Fantastyczne Światy",
+        "gameId": 307032
+      },
+      {
+        "name": "Tajniacy: Nowi Agenci",
+        "gameId": 234643
+      },
+      {
+        "name": "Tajniacy: Obcy Agenci",
+        "gameId": 253443
+      },
+      {
+        "name": "Tajniacy: Sami Nieswoi",
+        "gameId": 234644
+      }
+    ]
+  },
+  {
+    "gameId": 764,
+    "name": "Mad Gab",
+    "description": "From the game box:&#10;&#10;Read a group of simple words aloud, like &quot;ASK RUDE ARRIVE HER&quot;.  Do you &quot;hear&quot; the answer?  Try saying them again.  Sound familiar?  Quick, the timer's tickin'.  Did you hear yourself say &quot;A Screwdriver&quot;?!&#10;&#10;You and your teammates have 30 seconds to sound out three puzzles.  Guess right and snatch that card!  Miss it and the other team can steal the point!&#10;&#10;O.K., the timer is set, the card flipper is loaded, and everyone's ready for a laugh riot!  Just remember, that when it comes to scoring points in MAD GAB...&#10;&#10;&quot;It's Not What You SAY, It's What You HEAR!&quot;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Ajwn7lvbj7mK8Gr6tsyTZg__original/img/-9jb6PjiD6-fFz3q-nqZRgCmyFs=/0x0/filters:format(jpeg)/pic203911.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ajwn7lvbj7mK8Gr6tsyTZg__thumb/img/WH28Q8J_YzN-1nQMA1gbinMF68A=/fit-in/200x150/filters:strip_icc()/pic203911.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "playingTime": 45,
+    "mechanics": [],
+    "isExpansion": false,
+    "yearPublished": 1996,
+    "bggRating": 5.25929,
+    "averageRating": 5.0184,
+    "rank": 23395,
+    "designers": [
+      "Terry White"
+    ],
+    "publishers": [
+      "Drumond Park Ltd.",
+      "Mattel, Inc.",
+      "Megableu",
+      "Patch Products"
+    ],
+    "artists": [],
+    "complexityRating": "1.26 ",
+    "bestNumPlayers": 6
+  },
+  {
+    "gameId": 211534,
+    "name": "Bears vs Babies",
+    "description": "Bears vs Babies is a card game in which you build handsome, incredible monsters who go to war with horrible, awful babies.&#10;&#10;The shared deck of cards consists of bear parts (and other monster parts) and baby cards. When you draw a part, you use it to build a monster for yourself; when you draw a baby, it goes in the center of the table. When babies are provoked, they attack, and anyone who has fewer monster parts than the number of attacking babies loses their monster; everyone with more parts than babies defeats this infantile army and scores.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/2BZROogBECvPPF2780wlvg__original/img/LAUIOIEPo54Qis-r8FDiE6kqqh4=/0x0/filters:format(jpeg)/pic5521191.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2BZROogBECvPPF2780wlvg__thumb/img/sdoR62wTU6mKAKrZY96_zhPWy3c=/fit-in/200x150/filters:strip_icc()/pic5521191.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playingTime": 20,
+    "mechanics": [
+      "Action Points",
+      "Hand Management",
+      "Player Elimination",
+      "Set Collection",
+      "Take That"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2017,
+    "bggRating": 5.38255,
+    "averageRating": 5.45776,
+    "rank": 23273,
+    "designers": [
+      "Matthew Inman",
+      "Elan Lee"
+    ],
+    "publishers": [
+      "(Self-Published)",
+      "ADC Blackfire Entertainment",
+      "Asmodee",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "Rebel Sp. z o.o."
+    ],
+    "artists": [
+      "Matthew Inman"
+    ],
+    "complexityRating": "1.25 ",
+    "bestNumPlayers": 4,
+    "expansions": [
+      {
+        "name": "Bears vs Babies: Exclusive Backer Card",
+        "gameId": 232252
+      },
+      {
+        "name": "Bears vs Babies: NSFW Expansion Pack",
+        "gameId": 211926
+      }
+    ]
+  },
+  {
+    "gameId": 2281,
+    "name": "Pictionary",
+    "description": "Playing Pictionary may remind you of Charades, but with drawing on paper instead of acting out the answers.  In Pictionary, though, both teams' (or even all three teams') clue givers may be drawing at the same time as players strive to be the first to guess the correct answer.  When the answer is not designated &quot;All Play,&quot; one team simply tries to come up with the answer before the timer runs out, which is usually but not always possible thanks to the varying difficulty levels of the answers.  No great drawing talent is required; instead, players gain an edge if they have a good imagination when guessing, empathy for their team mates, and/or a general ability to communicate in restricted circumstances.  A board is provided, just to keep score on, which focuses the competition.  Pictionary was a big hit when it first appeared and has been a classic on the party game scene ever since.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/YfUxodD7JSqYitxvjXB69Q__original/img/YRJAlLzkxMuJHVPsdnBLNFpoODA=/0x0/filters:format(png)/pic5147022.png",
+    "thumbnail": "https://cf.geekdo-images.com/YfUxodD7JSqYitxvjXB69Q__thumb/img/7ls1a8ak5oT7BaKM-rVHpOVrP14=/fit-in/200x150/filters:strip_icc()/pic5147022.png",
+    "minPlayers": 3,
+    "maxPlayers": 16,
+    "playingTime": 90,
+    "mechanics": [
+      "Roll / Spin and Move",
+      "Team-Based Game"
+    ],
+    "isExpansion": false,
+    "yearPublished": 1985,
+    "bggRating": 5.7137,
+    "averageRating": 5.83126,
+    "rank": 5061,
+    "designers": [
+      "Rob Angel"
+    ],
+    "publishers": [
+      "APEX Spiel und Hobby",
+      "AS Company",
+      "CEFA (Celulosa Fabril S. A.)",
+      "Desyllas Games",
+      "Diset S. A.",
+      "Falomir Juegos",
+      "Fratelli Fabbri Editori  (Fabbri Editore)",
+      "The Games Gang, LTD",
+      "Grow Jogos e Brinquedos",
+      "Hasbro",
+      "Hobby",
+      "Joseph M. Cornacchia Inc.",
+      "Korea Boardgames Co., Ltd.",
+      "Mattel, Inc.",
+      "Milton Bradley",
+      "The Op",
+      "Parker Brothers",
+      "Pictionary, Inc.",
+      "Playmix",
+      "Publijuego",
+      "Ruibal Hermanos S.A.",
+      "Super Impulse",
+      "SYU Creation",
+      "Western Publishing Company",
+      "WHSmith"
+    ],
+    "artists": [
+      "(Uncredited)"
+    ],
+    "complexityRating": "1.24 ",
+    "bestNumPlayers": 8,
+    "expansions": [
+      {
+        "name": "Pictionary Second Edition Card Set",
+        "gameId": 287186
+      },
+      {
+        "name": "Pictionaussie",
+        "gameId": 73751
+      }
+    ]
+  },
+  {
+    "gameId": 39856,
+    "name": "Dixit",
+    "description": "2010 Spiel des Jahres Winner&#10;&#10;One player is the storyteller for the turn and looks at the images on the 6 cards in her hand. From one of these, she makes up a sentence and says it out loud (without showing the card to the other players).&#10;&#10;Each other player selects the card in their hands which best matches the sentence and gives the selected card to the storyteller, without showing it to the others.&#10;&#10;The storyteller shuffles her card with all the received cards. All pictures are shown face up and every player has to bet upon which picture was the storyteller's.&#10;&#10;If nobody or everybody finds the correct card, the storyteller scores 0, and each of the other players scores 2. Otherwise the storyteller and whoever found the correct answer score 3. Players score 1 point for every vote for their own card.&#10;&#10;The game ends when the deck is empty or if a player scores 30 points. In either case, the player with the most points wins the game.&#10;&#10;The base game and all expansions have 84 cards each.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__original/img/jt3kFCHJ3HJ2079dMLwipFZqdQg=/0x0/filters:format(jpeg)/pic6738336.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__thumb/img/QVwPXskFikQwBQlrdLJBAiRGgdg=/fit-in/200x150/filters:strip_icc()/pic6738336.jpg",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "playingTime": 30,
+    "mechanics": [
+      "Race",
+      "Simultaneous Action Selection",
+      "Storytelling",
+      "Targeted Clues",
+      "Voting"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2008,
+    "bggRating": 7.1181,
+    "averageRating": 7.22692,
+    "rank": 317,
+    "designers": [
+      "Jean-Louis Roubira"
+    ],
+    "publishers": [
+      "Libellud",
+      "ADC Blackfire Entertainment",
+      "Asmodee",
+      "Asmodee Canada",
+      "Asmodee China",
+      "Asterion Press",
+      "Boardgame Space",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "hobbity.eu",
+      "Hobby Japan",
+      "KADABRA",
+      "Kaissa Chess & Games",
+      "Korea Boardgames Co., Ltd.",
+      "Lautapelit.fi",
+      "Morapiaf",
+      "Nordic Games GmbH",
+      "Paladium Games",
+      "Rebel Sp. z o.o.",
+      "Swan Panasia Co., Ltd."
+    ],
+    "artists": [
+      "Marie Cardouat"
+    ],
+    "complexityRating": "1.22 ",
+    "bestNumPlayers": 6,
+    "expansions": [
+      {
+        "name": "Brettspiel Adventskalender 2018",
+        "gameId": 256951
+      },
+      {
+        "name": "Dixit 2: \"Dice Tower\" Promo Card",
+        "gameId": 309231
+      },
+      {
+        "name": "Dixit 2: \"Gift\" Promo Card",
+        "gameId": 78773
+      },
+      {
+        "name": "Dixit 2: \"The American\" Promo Card",
+        "gameId": 75313
+      },
+      {
+        "name": "Dixit 3: Journey",
+        "gameId": 119657
+      },
+      {
+        "name": "Dixit 8: \"Cocktail\" Promo Card",
+        "gameId": 237502
+      },
+      {
+        "name": "Dixit AsmoPlay Ingenuity Promos",
+        "gameId": 303677
+      },
+      {
+        "name": "Dixit: \"Magic Bunny\" Promo Card",
+        "gameId": 212802
+      },
+      {
+        "name": "Dixit: \"Merry Christmas\" Promo Card",
+        "gameId": 261027
+      },
+      {
+        "name": "Dixit: \"Pink Bunny\" Promo Card",
+        "gameId": 263998
+      },
+      {
+        "name": "Dixit: \"Pumpkinhead\" and \"Santa\" Promo Cards",
+        "gameId": 169639
+      },
+      {
+        "name": "Dixit: \"The Dragon\" Promo Card",
+        "gameId": 126164
+      },
+      {
+        "name": "Dixit: \"The Elephants\" Promo Card",
+        "gameId": 261025
+      },
+      {
+        "name": "Dixit: \"The Inheritors\" Promo Card Pack",
+        "gameId": 151552
+      },
+      {
+        "name": "Dixit: \"The Princess and the Pea\" Promo Card",
+        "gameId": 299797
+      },
+      {
+        "name": "Dixit: \"The Werewolves of Miller's Hollow: The Pact\" Promo Card Pack",
+        "gameId": 209291
+      },
+      {
+        "name": "Dixit: \"Werewolves\" Promo Card Pack",
+        "gameId": 170169
+      },
+      {
+        "name": "Dixit: 2012 Asmodee Special Cards",
+        "gameId": 132022
+      },
+      {
+        "name": "Dixit: Adventure Puzzle Promo Card",
+        "gameId": 374404
+      },
+      {
+        "name": "Dixit: Anniversary",
+        "gameId": 256237
+      },
+      {
+        "name": "Dixit: Anniversary Pack",
+        "gameId": 174089
+      },
+      {
+        "name": "Dixit: Blue Mishmash Puzzle Promo Card",
+        "gameId": 374403
+      },
+      {
+        "name": "Dixit: Candide Promo Card",
+        "gameId": 261026
+      },
+      {
+        "name": "Dixit: Chameleon Puzzle Promo Card",
+        "gameId": 374401
+      },
+      {
+        "name": "Dixit: Chilean Way",
+        "gameId": 287250
+      },
+      {
+        "name": "Dixit: Chilean Way",
+        "gameId": 333835
+      },
+      {
+        "name": "Dixit: Daydreams",
+        "gameId": 156189
+      },
+      {
+        "name": "Dixit: Detours Puzzle Promo Card",
+        "gameId": 374397
+      },
+      {
+        "name": "Dixit: Escape Box Puzzle Promo Card",
+        "gameId": 374388
+      },
+      {
+        "name": "Dixit: Family Puzzle Promo Card",
+        "gameId": 374387
+      },
+      {
+        "name": "Dixit: Harmonies",
+        "gameId": 234553
+      },
+      {
+        "name": "Dixit: Memories",
+        "gameId": 174090
+      },
+      {
+        "name": "Dixit: Memories – Promo card",
+        "gameId": 243310
+      },
+      {
+        "name": "Dixit: Mermaid in Love Puzzle Promo Card",
+        "gameId": 374386
+      },
+      {
+        "name": "Dixit: Mirrors",
+        "gameId": 301112
+      },
+      {
+        "name": "Dixit: Obscurio's Library promo card",
+        "gameId": 332087
+      },
+      {
+        "name": "Dixit: Odyssey (expansion)",
+        "gameId": 138547
+      },
+      {
+        "name": "Dixit: Odyssey – \"Bunny\" Promo Card",
+        "gameId": 99134
+      },
+      {
+        "name": "Dixit: Origins",
+        "gameId": 145325
+      },
+      {
+        "name": "Dixit: Origins – \"La Machine à rêves\" Promo Card",
+        "gameId": 150795
+      },
+      {
+        "name": "Dixit: Point of View Puzzle Promo Card",
+        "gameId": 374385
+      },
+      {
+        "name": "Dixit: Queen of Owls Puzzle Promo Card",
+        "gameId": 374384
+      },
+      {
+        "name": "Dixit: Quest",
+        "gameId": 55660
+      },
+      {
+        "name": "Dixit: Red Mishmash Puzzle Promo Card",
+        "gameId": 374383
+      },
+      {
+        "name": "Dixit: Resonance Puzzle Promo Card",
+        "gameId": 374381
+      },
+      {
+        "name": "Dixit: Revelations",
+        "gameId": 205761
+      },
+      {
+        "name": "Dixit: Richness Puzzle Promo Card",
+        "gameId": 374379
+      },
+      {
+        "name": "Dixit: Spielbox 03/15 Promo Card",
+        "gameId": 179060
+      },
+      {
+        "name": "Dixit: Tabletop Day 2015 Promo Pack",
+        "gameId": 176329
+      },
+      {
+        "name": "Dixit: Telekenesis Puzzle Promo Card",
+        "gameId": 374378
+      }
+    ]
+  },
+  {
+    "gameId": 184491,
+    "name": "Spaceteam",
+    "description": "Spaceteam is a fast-paced, cooperative shouting card game in which you race to repair your malfunctioning spaceship.&#10;&#10;Your goal is to ensure that all ship systems are functioning properly before time runs out. Each player must deal with the various malfunctions in their sector by flipping cards from the malfunction deck in front of them, and fixing the ship's systems. You'll have an arsenal of disorganized space tools spread among all players' hands, but finding the right tools can be harder than you think, especially when your Spaceteam is franticly worrying about malfunctions in their own sector. If that wasn&rsquo;t hard enough, you&rsquo;ll also have to deal with complications such as wormholes and asteroid fields, which require the coordination of the entire Spaceteam. There are no turns; everyone plays and shouts at the same time. Victory is achieved if enough malfunctions are corrected to reveal the 6 hidden System-Go Cards before time is up.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/eRLam_QqrGZIQbmhB3GWIA__original/img/cQ8j6i9xrhacZIkPoNHgL3wfRTw=/0x0/filters:format(png)/pic2722498.png",
+    "thumbnail": "https://cf.geekdo-images.com/eRLam_QqrGZIQbmhB3GWIA__thumb/img/P0FCFJVU66S8fOZwJt30L2rpGoE=/fit-in/200x150/filters:strip_icc()/pic2722498.png",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "playingTime": 5,
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Memory",
+      "Trading"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2015,
+    "bggRating": 6.02028,
+    "averageRating": 6.62453,
+    "rank": 2561,
+    "designers": [
+      "Tim Hutchings",
+      "Mathew Sisson"
+    ],
+    "publishers": [
+      "Stellar Factory",
+      "Timber & Bolt"
+    ],
+    "artists": [
+      "Sergey Grigoryan",
+      "Mathew Sisson"
+    ],
+    "complexityRating": "1.09 ",
+    "bestNumPlayers": 6,
+    "expansions": [
+      {
+        "name": "Spaceteam: NSFS Expansion",
+        "gameId": 191676
+      },
+      {
+        "name": "Spaceteam: Triangulum Expansion",
+        "gameId": 191679
+      }
+    ]
+  },
+  {
+    "gameId": 172225,
+    "name": "Exploding Kittens",
+    "description": "Exploding Kittens is a kitty-powered version of Russian Roulette. Players take turns drawing cards until someone draws an exploding kitten and loses the game. The deck is made up of cards that let you avoid exploding by peeking at cards before you draw, forcing your opponent to draw multiple cards, or shuffling the deck.&#10;&#10;The game gets more and more intense with each card you draw because fewer cards left in the deck means a greater chance of drawing the kitten and exploding in a fiery ball of feline hyperbole.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png",
+    "thumbnail": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__thumb/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playingTime": 15,
+    "mechanics": [
+      "Hand Management",
+      "Hot Potato",
+      "Player Elimination",
+      "Push Your Luck",
+      "Set Collection",
+      "Take That"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2015,
+    "bggRating": 5.86078,
+    "averageRating": 6.04566,
+    "rank": 3519,
+    "designers": [
+      "Matthew Inman",
+      "Elan Lee",
+      "Shane Small"
+    ],
+    "publishers": [
+      "Ad Magic, Inc. ( AdMagic Games)",
+      "(Self-Published)",
+      "(Unknown)",
+      "ADC Blackfire Entertainment",
+      "Angry Lion Games",
+      "Asmodee",
+      "Blackfire Games",
+      "Boardgame Space",
+      "CoolPlay",
+      "Exploding Kittens",
+      "Galápagos Jogos",
+      "Gém Klub Kft.",
+      "HaKubia",
+      "Hobby Japan",
+      "Hobby World",
+      "Kaissa Chess & Games",
+      "Rebel Sp. z o.o.",
+      "Siam Board Games"
+    ],
+    "artists": [
+      "Matthew Inman",
+      "Elan Lee",
+      "Shane Small"
+    ],
+    "complexityRating": "1.07 ",
+    "bestNumPlayers": 4,
+    "myExpansions": [
+      {
+        "gameId": 204053,
+        "name": "Exploding Kittens: Imploding Kittens",
+        "image": "https://cf.geekdo-images.com/I5JSKlcAKikJ8GlcFRwD6w__original/img/ZpfgFS7Ru7C6N6EZ4OlIzfT_EvU=/0x0/filters:format(jpeg)/pic3518497.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/I5JSKlcAKikJ8GlcFRwD6w__thumb/img/4XKbpNyF4f2QCOB2ITjBI5YaSQ8=/fit-in/200x150/filters:strip_icc()/pic3518497.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "playingTime": 15,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 7.04309,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "1.10 "
+      },
+      {
+        "gameId": 260214,
+        "name": "Exploding Kittens: Streaking Kittens",
+        "image": "https://cf.geekdo-images.com/NTKDuf6oQOXTYLP56elQ7w__original/img/5KNUp6geyom1XMopini-QYwSRZ0=/0x0/filters:format(jpeg)/pic4385457.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/NTKDuf6oQOXTYLP56elQ7w__thumb/img/C4DkV2oGL-on4OSQkdnIYtIlW7Q=/fit-in/200x150/filters:strip_icc()/pic4385457.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playingTime": 15,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 7.18616,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "1.09 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Blackbox Press kit",
+        "gameId": 209454
+      },
+      {
+        "name": "Exploding Kittens: Barking Kittens",
+        "gameId": 312667
+      },
+      {
+        "name": "Exploding Kittens: Imploding Kittens",
+        "gameId": 204053
+      },
+      {
+        "name": "Exploding Kittens: Streaking Kittens",
+        "gameId": 260214
+      },
+      {
+        "name": "Hidden Compartment Pack: Expansion for Cards Against Humanity and Exploding Kittens",
+        "gameId": 232697
+      },
+      {
+        "name": "Zombie Kittens: Not the Full Game. Just the 22 Expansion Cards",
+        "gameId": 372808
+      }
+    ]
+  },
+  {
+    "gameId": 172242,
+    "name": "Exploding Kittens: NSFW Deck",
+    "description": "Originally an expansion for Exploding Kittens, the most successful Kickstarer project ever, that contained cards that were too horrific and/or incredible to be included in a kid safe version. As a stretch goal this was turned into a stand alone game that can be combined with the standard Exploding Kittens deck. If you combine the two decks, you can go up to 9 players. 10 with Imploding Kittens&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/qsvkRPq0sPATRiieLMKiQQ__original/img/sfCjazSdTyQHH_2Z9j4TO4fXdO8=/0x0/filters:format(jpeg)/pic7022744.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qsvkRPq0sPATRiieLMKiQQ__thumb/img/RCdrPqv7PZ9cIsQmwXvaHbUlpC4=/fit-in/200x150/filters:strip_icc()/pic7022744.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playingTime": 20,
+    "mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Push Your Luck",
+      "Set Collection",
+      "Take That"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2015,
+    "bggRating": 5.96961,
+    "averageRating": 6.2286,
+    "rank": 2826,
+    "designers": [
+      "Matthew Inman",
+      "Elan Lee",
+      "Shane Small"
+    ],
+    "publishers": [
+      "(Self-Published)",
+      "(Unknown)",
+      "ADC Blackfire Entertainment",
+      "Asmodee",
+      "Galápagos Jogos",
+      "Hobby Japan",
+      "Hobby World",
+      "Rebel Sp. z o.o."
+    ],
+    "artists": [
+      "Matthew Inman",
+      "Elan Lee",
+      "Shane Small"
+    ],
+    "complexityRating": "1.07 ",
+    "bestNumPlayers": 5,
+    "myExpansions": [
+      {
+        "gameId": 204053,
+        "name": "Exploding Kittens: Imploding Kittens",
+        "image": "https://cf.geekdo-images.com/I5JSKlcAKikJ8GlcFRwD6w__original/img/ZpfgFS7Ru7C6N6EZ4OlIzfT_EvU=/0x0/filters:format(jpeg)/pic3518497.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/I5JSKlcAKikJ8GlcFRwD6w__thumb/img/4XKbpNyF4f2QCOB2ITjBI5YaSQ8=/fit-in/200x150/filters:strip_icc()/pic3518497.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "playingTime": 15,
+        "isExpansion": true,
+        "yearPublished": 2016,
+        "bggRating": 0,
+        "averageRating": 7.04309,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "1.10 "
+      },
+      {
+        "gameId": 260214,
+        "name": "Exploding Kittens: Streaking Kittens",
+        "image": "https://cf.geekdo-images.com/NTKDuf6oQOXTYLP56elQ7w__original/img/5KNUp6geyom1XMopini-QYwSRZ0=/0x0/filters:format(jpeg)/pic4385457.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/NTKDuf6oQOXTYLP56elQ7w__thumb/img/C4DkV2oGL-on4OSQkdnIYtIlW7Q=/fit-in/200x150/filters:strip_icc()/pic4385457.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playingTime": 15,
+        "isExpansion": true,
+        "yearPublished": 2018,
+        "bggRating": 0,
+        "averageRating": 7.18616,
+        "rank": -1,
+        "numPlays": 0,
+        "rating": -1,
+        "owned": true,
+        "preOrdered": false,
+        "forTrade": false,
+        "previousOwned": false,
+        "want": false,
+        "wantToPlay": false,
+        "wantToBuy": false,
+        "wishList": false,
+        "userComment": "",
+        "complexityRating": "1.09 "
+      }
+    ],
+    "expansions": [
+      {
+        "name": "Exploding Kittens: Barking Kittens",
+        "gameId": 312667
+      },
+      {
+        "name": "Exploding Kittens: Imploding Kittens",
+        "gameId": 204053
+      },
+      {
+        "name": "Exploding Kittens: Streaking Kittens",
+        "gameId": 260214
+      },
+      {
+        "name": "Hidden Compartment Pack: Expansion for Cards Against Humanity and Exploding Kittens",
+        "gameId": 232697
+      },
+      {
+        "name": "Zombie Kittens: Not the Full Game. Just the 22 Expansion Cards",
+        "gameId": 372808
+      }
+    ]
+  },
+  {
+    "gameId": 289018,
+    "name": "On a Scale of One to T-Rex",
+    "description": "From the creators of Exploding Kittens and Wolfgang Warsch (The Mind) comes a brand new family-friendly party game for people who are bad at charades&#10;&#10;     Perform ridiculous and hilarious actions at different intensities&#10;     Win points by matching your intensity with another player&#10;     Includes 139 cards and 58 tokens&#10;     5 minutes to learn, 15 minutes to play, 2 - 8 players&#10;&#10;&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/9qbxsnp1CWpI6OUiV1cL2w__original/img/L_64t52CFZDFXOAgWeypRNu2SOY=/0x0/filters:format(jpeg)/pic4960288.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9qbxsnp1CWpI6OUiV1cL2w__thumb/img/f9eYtnLr5ojiemZAefdT6qR10Xk=/fit-in/200x150/filters:strip_icc()/pic4960288.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playingTime": 15,
+    "mechanics": [
+      "Acting"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2019,
+    "bggRating": 5.53277,
+    "averageRating": 5.86126,
+    "rank": 13175,
+    "designers": [
+      "Wolfgang Warsch"
+    ],
+    "publishers": [
+      "Asmodee Italia",
+      "Exploding Kittens",
+      "Gém Klub Kft.",
+      "GoKids 玩樂小子",
+      "Hobby Japan"
+    ],
+    "artists": [
+      "Wolfgang Warsch"
+    ],
+    "complexityRating": "1.00 ",
+    "bestNumPlayers": 6
+  },
+  {
+    "gameId": 369634,
+    "name": "Smitten",
+    "description": "Smitten is a cooperative micro-game for 1-2 players designed and published in celebration of Stonemaier Games' 10th anniversary. In Smitten, players work cooperatively with limited information/communication to complete two identical 3x3 grids of cards, each inspired by a Stonemaier game and illustrated by Vincent Dutrait. There are multiple difficulty levels and separate modes for solo and 2-player games.&#10;&#10;Smitten was inspired by comic book cards from Jamey's youth, specifically a set where various cards formed a cohesive 9-card panorama image. In trying to complete two of these images in Smitten, there is no set turn order; rather, players indicate a preference to play or not play a card. The played card has instructions for the other player to place a card, which they must do or the game instantly ends.&#10;&#10;Smitten is packaged inside a paper envelope; it's an entirely plastic-free, eco-friendly product.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/XD9RT1HTi1skipWTLP67Dw__original/img/N23OEvSeA75xBs4pCefEWy_J6jU=/0x0/filters:format(jpeg)/pic7050645.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XD9RT1HTi1skipWTLP67Dw__thumb/img/ErOQYXNwfMWV4naMq86saXMV3RM=/fit-in/200x150/filters:strip_icc()/pic7050645.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "playingTime": 10,
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Turn Order: Claim Action"
+    ],
+    "isExpansion": false,
+    "yearPublished": 2022,
+    "bggRating": 5.58313,
+    "averageRating": 6.59633,
+    "rank": 8587,
+    "designers": [
+      "Jamey Stegmaier"
+    ],
+    "publishers": [
+      "Stonemaier Games",
+      "Geekach Games"
+    ],
+    "artists": [
+      "Vincent Dutrait"
+    ],
+    "complexityRating": "1.00 ",
+    "bestNumPlayers": 2
+  }
+]

@@ -5,16 +5,15 @@
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production npx eleventy",
-    "start": "npx eleventy --serve --port=8082"
+    "start": "npx eleventy --serve --port=8082",
+    "fetchGames": "node bin/fetchGames.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
-    "netlify-plugin-cache-folder": "^0.0.7",
     "node-fetch": "^2.6.1",
     "puppeteer": "^9.1.1"
-  },
-  "dependencies": {}
+  }
 }
