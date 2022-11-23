@@ -73,6 +73,9 @@ function getRating(complexities, id) {
 
 // Store expansions inside main games
 async function mungeGames(cachedGames, currentBasicGames, addedIds, deletedIds, complexities) {
+  // Remove deleted games
+  const updatedCache = cachedGames.filter(game => !deletedIds.has(game.gameId))
+  // Add complexity ratings
   const currentBasicGamesWithComplexities = currentBasicGames.map(game => {
     return {
       ...game,
@@ -84,7 +87,7 @@ async function mungeGames(cachedGames, currentBasicGames, addedIds, deletedIds, 
   const addedDetailedBaseGames = await getDetailedGames(addedBaseGames)
   // Merge base games, and filter out any games with bad responses
   const newDetailedBaseGames = [
-    ...cachedGames.map(game => {
+    ...updatedCache.map(game => {
       return {
         ...game,
         complexityRating: getRating(complexities, game.gameId)
